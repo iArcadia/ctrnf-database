@@ -1,0 +1,1558 @@
+[
+    {
+        "slug": "crash-cove",
+        "name": {
+            "en": "Crash Cove",
+            "fr": "Crique Crash"
+        },
+        "time-trial": {
+            "n-tropy-time": 94860,
+            "nitros-oxide-time": 87520,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/1/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/1/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/1/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 32,
+            "easy-mode": {
+                "sapphire-time": 83000,
+                "gold-time": 70000,
+                "platinum-time": 56000
+            },
+            "normal-mode": {
+                "sapphire-time": 77000,
+                "gold-time": 65000,
+                "platinum-time": 52000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/2/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/2/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/2/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "n-sanity-beach"
+            }
+        }
+    },
+    {
+        "slug": "roo-s-tubes",
+        "name": {
+            "en": "Roo's Tubes",
+            "fr": "Tubes Roo"
+        },
+        "time-trial": {
+            "n-tropy-time": 94190,
+            "nitros-oxide-time": 83650,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/3/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/3/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/3/mode/1/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 80000,
+                "gold-time": 70000,
+                "platinum-time": 65000
+            },
+            "normal-mode": {
+                "sapphire-time": 75000,
+                "gold-time": 65000,
+                "platinum-time": 55000
+            },
+            "time-crates": 32,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/4/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/4/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/4/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "n-sanity-beach"
+            }
+        }
+    },
+    {
+        "slug": "mystery-caves",
+        "name": {
+            "en": "Mystery Caves",
+            "fr": "Grotte Myst\u00e8re"
+        },
+        "time-trial": {
+            "n-tropy-time": 144450,
+            "nitros-oxide-time": 134000,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/3/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/3/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/3/mode/1/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 120000,
+                "gold-time": 109000,
+                "platinum-time": 98000
+            },
+            "normal-mode": {
+                "sapphire-time": 115000,
+                "gold-time": 104000,
+                "platinum-time": 92000
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/6/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/6/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/6/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "n-sanity-beach"
+            }
+        }
+    },
+    {
+        "slug": "sewer-speedway",
+        "name": {
+            "en": "Sewer Speedway",
+            "fr": "Circuit Ego\u00fbts"
+        },
+        "time-trial": {
+            "n-tropy-time": 133700,
+            "nitros-oxide-time": 116180,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/7/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/7/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/7/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 98000,
+                "gold-time": 70000,
+                "platinum-time": 43000
+            },
+            "normal-mode": {
+                "sapphire-time": 93000,
+                "gold-time": 65000,
+                "platinum-time": 37000
+            },
+            "time-crates": 65,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/8/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/8/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/8/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "n-sanity-beach"
+            }
+        }
+    },
+    {
+        "slug": "coco-park",
+        "name": {
+            "en": "Coco Park",
+            "fr": "Parc Coco"
+        },
+        "time-trial": {
+            "n-tropy-time": 97530,
+            "nitros-oxide-time": 89350,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/13/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/13/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/13/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 100000,
+                "gold-time": 78000,
+                "platinum-time": 55000
+            },
+            "normal-mode": {
+                "sapphire-time": 95000,
+                "gold-time": 72000,
+                "platinum-time": 49000
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/14/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/14/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/14/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "the-lost-ruins"
+            }
+        }
+    },
+    {
+        "slug": "tiger-temple",
+        "name": {
+            "en": "Tiger Temple",
+            "fr": "Temple Tigre"
+        },
+        "time-trial": {
+            "n-tropy-time": 122750,
+            "nitros-oxide-time": 115910,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/15/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/15/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/15/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 90000,
+                "gold-time": 68000,
+                "platinum-time": 53000
+            },
+            "normal-mode": {
+                "sapphire-time": 80000,
+                "gold-time": 62000,
+                "platinum-time": 43000
+            },
+            "time-crates": 52,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/16/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/16/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/16/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "the-lost-ruins"
+            }
+        }
+    },
+    {
+        "slug": "papu-s-pyramid",
+        "name": {
+            "en": "Papu's Pyramid",
+            "fr": "Pyramide Papu"
+        },
+        "time-trial": {
+            "n-tropy-time": 119880,
+            "nitros-oxide-time": 106240,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/17/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/17/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/17/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 100000,
+                "gold-time": 73000,
+                "platinum-time": 48000
+            },
+            "normal-mode": {
+                "sapphire-time": 94000,
+                "gold-time": 69000,
+                "platinum-time": 42000
+            },
+            "time-crates": 48,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/18/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/18/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/18/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "the-lost-ruins"
+            }
+        }
+    },
+    {
+        "slug": "dingo-canyon",
+        "name": {
+            "en": "Dingo Canyon",
+            "fr": "Canyon Dingo"
+        },
+        "time-trial": {
+            "n-tropy-time": 108540,
+            "nitros-oxide-time": 105470,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/19/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/19/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/19/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 95000,
+                "gold-time": 74000,
+                "platinum-time": 58000
+            },
+            "normal-mode": {
+                "sapphire-time": 85000,
+                "gold-time": 69000,
+                "platinum-time": 53000
+            },
+            "time-crates": 38,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/20/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/20/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/20/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "the-lost-ruins"
+            }
+        }
+    },
+    {
+        "slug": "polar-pass",
+        "name": {
+            "en": "Polar Pass",
+            "fr": "Col Polar"
+        },
+        "time-trial": {
+            "n-tropy-time": 180580,
+            "nitros-oxide-time": 166970,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/25/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/25/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/25/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 185000,
+                "gold-time": 158000,
+                "platinum-time": 130000
+            },
+            "normal-mode": {
+                "sapphire-time": 180000,
+                "gold-time": 153000,
+                "platinum-time": 125000
+            },
+            "time-crates": 38,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/26/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/26/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/26/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
+        "slug": "tiny-arena",
+        "name": {
+            "en": "Tiny Arena",
+            "fr": "Ar\u00e8ne Tiny"
+        },
+        "time-trial": {
+            "n-tropy-time": 231430,
+            "nitros-oxide-time": 223220,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/27/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/27/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/27/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 230000,
+                "gold-time": 208000,
+                "platinum-time": 183000
+            },
+            "normal-mode": {
+                "sapphire-time": 225000,
+                "gold-time": 202000,
+                "platinum-time": 178000
+            },
+            "time-crates": 60,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/28/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/28/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/28/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
+        "slug": "dragon-mines",
+        "name": {
+            "en": "Dragon Mines",
+            "fr": "Mine Dragon"
+        },
+        "time-trial": {
+            "n-tropy-time": 105540,
+            "nitros-oxide-time": 94620,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/23/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/23/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/23/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 94000,
+                "gold-time": 76000,
+                "platinum-time": 60000
+            },
+            "normal-mode": {
+                "sapphire-time": 88000,
+                "gold-time": 71000,
+                "platinum-time": 54000
+            },
+            "time-crates": 39,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/24/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/24/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/24/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
+        "slug": "blizzard-bluff",
+        "name": {
+            "en": "Blizzard Bluff",
+            "fr": "Falaises Gla\u00e7\u00e9es"
+        },
+        "time-trial": {
+            "n-tropy-time": 97230,
+            "nitros-oxide-time": 88190,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/21/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/21/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/21/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 95000,
+                "gold-time": 73000,
+                "platinum-time": 50000
+            },
+            "normal-mode": {
+                "sapphire-time": 90000,
+                "gold-time": 68000,
+                "platinum-time": 45000
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/22/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/22/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/22/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
+        "slug": "hot-air-skyway",
+        "name": {
+            "en": "Hot Air Skyway",
+            "fr": "Piste Air"
+        },
+        "time-trial": {
+            "n-tropy-time": 201430,
+            "nitros-oxide-time": 189890,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/33/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/33/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/33/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 190000,
+                "gold-time": 159000,
+                "platinum-time": 127000
+            },
+            "normal-mode": {
+                "sapphire-time": 185000,
+                "gold-time": 154000,
+                "platinum-time": 122000
+            },
+            "time-crates": 56,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/34/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/34/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/34/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "citadel-city"
+            }
+        }
+    },
+    {
+        "slug": "cortex-castle",
+        "name": {
+            "en": "Cortex Castle",
+            "fr": "Ch\u00e2teau Cortex"
+        },
+        "time-trial": {
+            "n-tropy-time": 160390,
+            "nitros-oxide-time": 156090,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/31/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/31/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/31/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 160000,
+                "gold-time": 129000,
+                "platinum-time": 97000
+            },
+            "normal-mode": {
+                "sapphire-time": 155000,
+                "gold-time": 124000,
+                "platinum-time": 92000
+            },
+            "time-crates": 62,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/32/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/32/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/32/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "citadel-city"
+            }
+        }
+    },
+    {
+        "slug": "n-gin-labs",
+        "name": {
+            "en": "N. Gin Labs",
+            "fr": "Labo N. Gin"
+        },
+        "time-trial": {
+            "n-tropy-time": 171540,
+            "nitros-oxide-time": 159650,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/29/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/29/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/29/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 140000,
+                "gold-time": 104000,
+                "platinum-time": 58000
+            },
+            "normal-mode": {
+                "sapphire-time": 135000,
+                "gold-time": 99000,
+                "platinum-time": 53000
+            },
+            "time-crates": 70,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/30/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/30/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/30/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "citadel-city"
+            }
+        }
+    },
+    {
+        "slug": "oxide-station",
+        "name": {
+            "en": "Oxide Station",
+            "fr": "Station Oxide"
+        },
+        "time-trial": {
+            "n-tropy-time": 210140,
+            "nitros-oxide-time": 207670,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/35/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/35/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/35/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 202000,
+                "gold-time": 180000,
+                "platinum-time": 159000
+            },
+            "normal-mode": {
+                "sapphire-time": 197000,
+                "gold-time": 176000,
+                "platinum-time": 154000
+            },
+            "time-crates": 49,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/36/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/36/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/36/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "citadel-city"
+            }
+        }
+    },
+    {
+        "slug": "slide-coliseum",
+        "name": {
+            "en": "Slide Coliseum",
+            "fr": "Stade Glissade"
+        },
+        "time-trial": {
+            "n-tropy-time": 128490,
+            "nitros-oxide-time": 120880,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/9/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/9/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/9/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 120000,
+                "gold-time": 110000,
+                "platinum-time": 105000
+            },
+            "normal-mode": {
+                "sapphire-time": 115000,
+                "gold-time": 105000,
+                "platinum-time": 100000
+            },
+            "time-crates": 45,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/10/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/10/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/10/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "gem-stone-valley"
+            }
+        }
+    },
+    {
+        "slug": "turbo-track",
+        "name": {
+            "en": "Turbo Track",
+            "fr": "Circuit Turbo"
+        },
+        "time-trial": {
+            "n-tropy-time": 138540,
+            "nitros-oxide-time": 126350,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/11/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/11/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/11/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 110000,
+                "gold-time": 97000,
+                "platinum-time": 84000
+            },
+            "normal-mode": {
+                "sapphire-time": 105000,
+                "gold-time": 92000,
+                "platinum-time": 79000
+            },
+            "time-crates": 52,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/12/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/12/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/12/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "gem-stone-valley"
+            }
+        }
+    },
+    {
+        "slug": "inferno-island",
+        "name": {
+            "en": "Inferno Island",
+            "fr": "Ile Infernale"
+        },
+        "time-trial": {
+            "n-tropy-time": 114410,
+            "nitros-oxide-time": 106470,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/39/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/39/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/39/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 118000,
+                "gold-time": 113000,
+                "platinum-time": 108000
+            },
+            "normal-mode": {
+                "sapphire-time": 113000,
+                "gold-time": 93000,
+                "platinum-time": 88000
+            },
+            "time-crates": 36,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/40/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/40/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/40/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "jungle-boogie",
+        "name": {
+            "en": "Jungle Boogie",
+            "fr": "Jungle en Folie"
+        },
+        "time-trial": {
+            "n-tropy-time": 93890,
+            "nitros-oxide-time": 87380,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/41/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/41/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/41/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 120000,
+                "gold-time": 90000,
+                "platinum-time": 70000
+            },
+            "normal-mode": {
+                "sapphire-time": 95000,
+                "gold-time": 78000,
+                "platinum-time": 55000
+            },
+            "time-crates": 39,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/42/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/42/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/42/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "clockwork-wumpa",
+        "name": {
+            "en": "Clockwork Wumpa",
+            "fr": "Horloge Wumpa"
+        },
+        "time-trial": {
+            "n-tropy-time": 160090,
+            "nitros-oxide-time": 143970,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/53/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/53/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/53/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 160000,
+                "gold-time": 145000,
+                "platinum-time": 130000
+            },
+            "normal-mode": {
+                "sapphire-time": 150000,
+                "gold-time": 135000,
+                "platinum-time": 120000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/54/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/54/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/54/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "android-alley",
+        "name": {
+            "en": "Android Alley",
+            "fr": "Andro\u00efdes"
+        },
+        "time-trial": {
+            "n-tropy-time": 197590,
+            "nitros-oxide-time": 178470,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/83/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/83/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/83/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 165000,
+                "gold-time": 153000,
+                "platinum-time": 145000
+            },
+            "normal-mode": {
+                "sapphire-time": 155000,
+                "gold-time": 143000,
+                "platinum-time": 130000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/84/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/84/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/84/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "electron-avenue",
+        "name": {
+            "en": "Electron Avenue",
+            "fr": "Electrons"
+        },
+        "time-trial": {
+            "n-tropy-time": 253520,
+            "nitros-oxide-time": 232230,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/61/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/61/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/61/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 265000,
+                "gold-time": 255000,
+                "platinum-time": 235000
+            },
+            "normal-mode": {
+                "sapphire-time": 255000,
+                "gold-time": 245000,
+                "platinum-time": 225000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/62/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/62/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/62/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "deep-sea-driving",
+        "name": {
+            "en": "Deep Sea Driving",
+            "fr": "Eaux Profondes"
+        },
+        "time-trial": {
+            "n-tropy-time": 142900,
+            "nitros-oxide-time": 125960,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/49/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/49/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/49/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 145000,
+                "gold-time": 130000,
+                "platinum-time": 120000
+            },
+            "normal-mode": {
+                "sapphire-time": 130000,
+                "gold-time": 115000,
+                "platinum-time": 100000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/50/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/50/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/50/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "thunder-struck",
+        "name": {
+            "en": "Thunder Struck",
+            "fr": "Foudre"
+        },
+        "time-trial": {
+            "n-tropy-time": 184180,
+            "nitros-oxide-time": 178680,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/55/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/55/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/55/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 195000,
+                "gold-time": 170000,
+                "platinum-time": 150000
+            },
+            "normal-mode": {
+                "sapphire-time": 185000,
+                "gold-time": 163000,
+                "platinum-time": 140000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/56/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/56/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/56/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "tiny-temple",
+        "name": {
+            "en": "Tiny Temple",
+            "fr": "Temple Tiny"
+        },
+        "time-trial": {
+            "n-tropy-time": 126890,
+            "nitros-oxide-time": 107710,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/43/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/43/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/43/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 140000,
+                "gold-time": 135000,
+                "platinum-time": 120000
+            },
+            "normal-mode": {
+                "sapphire-time": 135000,
+                "gold-time": 130000,
+                "platinum-time": 110000
+            },
+            "time-crates": 46,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/44/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/44/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/44/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "meteor-gorge",
+        "name": {
+            "en": "Meteor Gorge",
+            "fr": "Gorges du M\u00e9t\u00e9ore"
+        },
+        "time-trial": {
+            "n-tropy-time": 105560,
+            "nitros-oxide-time": 99000,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/45/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/45/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/45/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 115000,
+                "gold-time": 98000,
+                "platinum-time": 80000
+            },
+            "normal-mode": {
+                "sapphire-time": 105000,
+                "gold-time": 88000,
+                "platinum-time": 70000
+            },
+            "time-crates": 34,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/46/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/46/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/46/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "barin-ruins",
+        "name": {
+            "en": "Barin Ruins",
+            "fr": "Ruines de Barin"
+        },
+        "time-trial": {
+            "n-tropy-time": 127790,
+            "nitros-oxide-time": 115210,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/47/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/47/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/47/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 130000,
+                "gold-time": 115000,
+                "platinum-time": 110000
+            },
+            "normal-mode": {
+                "sapphire-time": 120000,
+                "gold-time": 108000,
+                "platinum-time": 95000
+            },
+            "time-crates": 45,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/48/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/48/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/48/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "out-of-time",
+        "name": {
+            "en": "Out of Time",
+            "fr": "Hors-Temps"
+        },
+        "time-trial": {
+            "n-tropy-time": 180050,
+            "nitros-oxide-time": 160090,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/51/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/51/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/51/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 180000,
+                "gold-time": 160000,
+                "platinum-time": 143000
+            },
+            "normal-mode": {
+                "sapphire-time": 173000,
+                "gold-time": 153000,
+                "platinum-time": 133000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/52/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/52/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/52/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "assembly-lane",
+        "name": {
+            "en": "Assembly Lane",
+            "fr": "Production"
+        },
+        "time-trial": {
+            "n-tropy-time": 188760,
+            "nitros-oxide-time": 180410,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/57/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/57/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/57/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 185000,
+                "gold-time": 178000,
+                "platinum-time": 170000
+            },
+            "normal-mode": {
+                "sapphire-time": 172000,
+                "gold-time": 165000,
+                "platinum-time": 155000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/58/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/58/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/58/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "hyper-spaceway",
+        "name": {
+            "en": "Hyper Spaceway",
+            "fr": "Hyperespace"
+        },
+        "time-trial": {
+            "n-tropy-time": 180910,
+            "nitros-oxide-time": 160790,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/63/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/63/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/63/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 150000,
+                "gold-time": 135000,
+                "platinum-time": 130000
+            },
+            "normal-mode": {
+                "sapphire-time": 145000,
+                "gold-time": 123000,
+                "platinum-time": 120000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/64/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/64/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/64/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "retro-stadium",
+        "name": {
+            "en": "Retro Stadium",
+            "fr": "Circuit Retro"
+        },
+        "time-trial": {
+            "n-tropy-time": 0,
+            "nitros-oxide-time": 0,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/37/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 105000,
+                "gold-time": 92000,
+                "platinum-time": 79000
+            },
+            "normal-mode": {
+                "sapphire-time": 105000,
+                "gold-time": 92000,
+                "platinum-time": 79000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/38/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "twilight-tour",
+        "name": {
+            "en": "Twilight Tour",
+            "fr": "Circuit du Cr\u00e9puscule"
+        },
+        "time-trial": {
+            "n-tropy-time": 179990,
+            "nitros-oxide-time": 157990,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/77/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/77/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/77/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 140000,
+                "gold-time": 130000,
+                "platinum-time": 114000
+            },
+            "normal-mode": {
+                "sapphire-time": 120000,
+                "gold-time": 110000,
+                "platinum-time": 94000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/78/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/78/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/78/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "prehistoric-playground",
+        "name": {
+            "en": "Prehistoric Playground",
+            "fr": "Parc Pr\u00e9historique"
+        },
+        "time-trial": {
+            "n-tropy-time": 180080,
+            "nitros-oxide-time": 161360,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/79/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/79/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/79/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 155000,
+                "gold-time": 135000,
+                "platinum-time": 110000
+            },
+            "normal-mode": {
+                "sapphire-time": 145000,
+                "gold-time": 125000,
+                "platinum-time": 100000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/80/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/80/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/80/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "spyro-circuit",
+        "name": {
+            "en": "Spyro Circuit",
+            "fr": "Circuit Spyro"
+        },
+        "time-trial": {
+            "n-tropy-time": 153090,
+            "nitros-oxide-time": 140540,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/81/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/81/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/81/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 100000,
+                "gold-time": 90000,
+                "platinum-time": 83000
+            },
+            "normal-mode": {
+                "sapphire-time": 90000,
+                "gold-time": 80000,
+                "platinum-time": 73000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/82/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/82/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/82/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "nina-s-nightmare",
+        "name": {
+            "en": "Nina's Nightmare",
+            "fr": "Cauchemar de Nina"
+        },
+        "time-trial": {
+            "n-tropy-time": 0,
+            "nitros-oxide-time": 0,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/59/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/59/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/59/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 79160,
+                "gold-time": 63410,
+                "platinum-time": 53110
+            },
+            "normal-mode": {
+                "sapphire-time": 73440,
+                "gold-time": 57040,
+                "platinum-time": 45470
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/60/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/60/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/60/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "koala-carnival",
+        "name": {
+            "en": "Koala Carnival",
+            "fr": "Cirque Koala"
+        },
+        "time-trial": {
+            "n-tropy-time": 0,
+            "nitros-oxide-time": 0,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/85/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/85/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/85/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 74000,
+                "gold-time": 67000,
+                "platinum-time": 59000
+            },
+            "normal-mode": {
+                "sapphire-time": 64000,
+                "gold-time": 57000,
+                "platinum-time": 49000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/86/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/86/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/86/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "gingerbread-joyride",
+        "name": {
+            "en": "Gingerbread Joyride",
+            "fr": "Chevauch\u00e9e de Pain d'Epice"
+        },
+        "time-trial": {
+            "n-tropy-time": 0,
+            "nitros-oxide-time": 0,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/87/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/87/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/87/page/1"
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 119000,
+                "gold-time": 99000,
+                "platinum-time": 74000
+            },
+            "normal-mode": {
+                "sapphire-time": 109000,
+                "gold-time": 89000,
+                "platinum-time": 64000
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/88/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/88/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/88/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    },
+    {
+        "slug": "megamix-mania",
+        "name": {
+            "en": "Megamix Mania",
+            "fr": "Megamix Mania"
+        },
+        "time-trial": {
+            "n-tropy-time": 0,
+            "nitros-oxide-time": 0,
+            "game-leaderboard-api-url": {
+                "playstation-4": null,
+                "xbox-one": null,
+                "nintendo-switch": null
+            }
+        },
+        "relic-race": {
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": 0,
+                "gold-time": 0,
+                "platinum-time": 0
+            },
+            "normal-mode": {
+                "sapphire-time": 0,
+                "gold-time": 0,
+                "platinum-time": 0
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": null,
+                "xbox-one": null,
+                "nintendo-switch": null
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "bonus-tracks"
+            }
+        }
+    }
+]

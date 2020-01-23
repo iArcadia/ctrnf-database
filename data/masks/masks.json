@@ -1,0 +1,147 @@
+[
+    {
+        "slug": "uka-uka",
+        "name": {
+            "en": "Uka-Uka",
+            "fr": "Uka-Uka"
+        },
+        "relationships": {
+            "characters": {
+                "file": "\\data\\characters\\characters.json",
+                "slugs": [
+                    "dr-neo-cortex",
+                    "tiny-tiger",
+                    "dr-n-gin",
+                    "dingodile",
+                    "penta-penguin",
+                    "ripper-roo",
+                    "papu-papu",
+                    "komodo-joe",
+                    "pinstripe",
+                    "fake-crash",
+                    "n-tropy",
+                    "komodo-moe",
+                    "n-brio",
+                    "nina-cortex",
+                    "koala-kong",
+                    "king-chicken",
+                    "rilla-roo",
+                    "megamix"
+                ]
+            },
+            "tracks": {
+                "file": "\\data\\tracks\\tracks.json",
+                "slugs": []
+            }
+        }
+    },
+    {
+        "slug": "aku-aku",
+        "name": {
+            "en": "Aku-Aku",
+            "fr": "Aku-Aku"
+        },
+        "relationships": {
+            "characters": {
+                "file": "\\data\\characters\\characters.json",
+                "slugs": [
+                    "crash-bandicoot",
+                    "coco-bandicoot",
+                    "polar",
+                    "pura",
+                    "penta-penguin",
+                    "crunch",
+                    "tawna",
+                    "ami",
+                    "megumi",
+                    "liz",
+                    "isabella",
+                    "baby-crash",
+                    "baby-coco",
+                    "baby-t",
+                    "pasadena-o-possum",
+                    "ebenezer-von-clutch",
+                    "king-chicken",
+                    "yaya-panda",
+                    "hasty",
+                    "chick",
+                    "stew"
+                ]
+            },
+            "tracks": {
+                "file": "\\data\\tracks\\tracks.json",
+                "slugs": []
+            }
+        }
+    },
+    {
+        "slug": "velo-mask",
+        "name": {
+            "en": "Velo Mask",
+            "fr": "Masque de Velo"
+        },
+        "relationships": {
+            "characters": {
+                "file": "\\data\\characters\\characters.json",
+                "slugs": [
+                    "nitros-oxide",
+                    "krunk",
+                    "small-norm",
+                    "big-norm",
+                    "nash",
+                    "n-trance",
+                    "real-velo",
+                    "geary",
+                    "zam",
+                    "zem"
+                ]
+            },
+            "tracks": {
+                "file": "\\data\\tracks\\tracks.json",
+                "slugs": []
+            }
+        }
+    },
+    {
+        "slug": "sparx",
+        "name": {
+            "en": "Sparx",
+            "fr": "Sparx"
+        },
+        "relationships": {
+            "characters": {
+                "file": "\\data\\characters\\characters.json",
+                "slugs": [
+                    "spyro",
+                    "hunter",
+                    "gnasty-gnorc"
+                ]
+            },
+            "tracks": {
+                "file": "\\data\\tracks\\tracks.json",
+                "slugs": [
+                    "spyro-circuit"
+                ]
+            }
+        }
+    },
+    {
+        "slug": "apo-apo",
+        "name": {
+            "en": "Apo-Apo",
+            "fr": "Apo-Apo"
+        },
+        "relationships": {
+            "characters": {
+                "file": "\\data\\characters\\characters.json",
+                "slug": []
+            },
+            "tracks": {
+                "file": "\\data\\tracks\\tracks.json",
+                "slugs": [
+                    "megamix-mania"
+                ]
+            }
+        }
+    }
+]

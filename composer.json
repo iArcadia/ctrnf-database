@@ -1,0 +1,25 @@
+{
+    "name": "ctrnf/database",
+    "description": "A repository with Crash Team Racing: Nitro-Fueled relative data.",
+    "version": "0.0.1",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Bibollet",
+            "email": "bibollet.kevin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ctrnf\\database\\": "src/",
+            "tests\\": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^5.0",
+        "iarcadia/time": "^1.0",
+        "opis/json-schema": "^1.0"
+    }
+}
