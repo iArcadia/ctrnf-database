@@ -10,23 +10,43 @@
             "acceleration": 5,
             "turn": 5
         },
-        "relationships": {
-            "characters": {
-                "file": "\\data\\characters\\characters.json",
-                "slugs": [
-                    "crash-bandicoot",
-                    "dr-neo-cortex",
-                    "komodo-joe",
-                    "fake-crash",
-                    "small-norm",
-                    "geary",
-                    "isabella",
-                    "hunter",
-                    "komodo-moe",
-                    "ebenezer-von-clutch",
-                    "chick"
-                ]
-            }
+        "characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "crash-bandicoot"
+                },
+                {
+                    "slug": "dr-neo-cortex"
+                },
+                {
+                    "slug": "komodo-joe"
+                },
+                {
+                    "slug": "fake-crash"
+                },
+                {
+                    "slug": "small-norm"
+                },
+                {
+                    "slug": "geary"
+                },
+                {
+                    "slug": "isabella"
+                },
+                {
+                    "slug": "hunter"
+                },
+                {
+                    "slug": "komodo-moe"
+                },
+                {
+                    "slug": "ebenezer-von-clutch"
+                },
+                {
+                    "slug": "chick"
+                }
+            ]
         }
     },
     {
@@ -40,27 +60,55 @@
             "acceleration": 3,
             "turn": 2
         },
-        "relationships": {
-            "characters": {
-                "file": "\\data\\characters\\characters.json",
-                "slugs": [
-                    "tiny-tiger",
-                    "dingodile",
-                    "penta-penguin",
-                    "papu-papu",
-                    "n-tropy",
-                    "crunch",
-                    "big-norm",
-                    "zem",
-                    "ami",
-                    "baby-t",
-                    "spyro",
-                    "nina-cortex",
-                    "koala-kong",
-                    "pasadena-o-possum",
-                    "yaya-panda"
-                ]
-            }
+        "characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "tiny-tiger"
+                },
+                {
+                    "slug": "dingodile"
+                },
+                {
+                    "slug": "penta-penguin"
+                },
+                {
+                    "slug": "papu-papu"
+                },
+                {
+                    "slug": "n-tropy"
+                },
+                {
+                    "slug": "crunch"
+                },
+                {
+                    "slug": "big-norm"
+                },
+                {
+                    "slug": "zem"
+                },
+                {
+                    "slug": "ami"
+                },
+                {
+                    "slug": "baby-t"
+                },
+                {
+                    "slug": "spyro"
+                },
+                {
+                    "slug": "nina-cortex"
+                },
+                {
+                    "slug": "koala-kong"
+                },
+                {
+                    "slug": "pasadena-o-possum"
+                },
+                {
+                    "slug": "yaya-panda"
+                }
+            ]
         }
     },
     {
@@ -74,23 +122,43 @@
             "acceleration": 7,
             "turn": 3
         },
-        "relationships": {
-            "characters": {
-                "file": "\\data\\characters\\characters.json",
-                "slugs": [
-                    "coco-bandicoot",
-                    "dr-n-gin",
-                    "pinstripe",
-                    "nitros-oxide",
-                    "nash",
-                    "n-trance",
-                    "tawna",
-                    "megumi",
-                    "baby-coco",
-                    "n-brio",
-                    "stew"
-                ]
-            }
+        "characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "coco-bandicoot"
+                },
+                {
+                    "slug": "dr-n-gin"
+                },
+                {
+                    "slug": "pinstripe"
+                },
+                {
+                    "slug": "nitros-oxide"
+                },
+                {
+                    "slug": "nash"
+                },
+                {
+                    "slug": "n-trance"
+                },
+                {
+                    "slug": "tawna"
+                },
+                {
+                    "slug": "megumi"
+                },
+                {
+                    "slug": "baby-coco"
+                },
+                {
+                    "slug": "n-brio"
+                },
+                {
+                    "slug": "stew"
+                }
+            ]
         }
     },
     {
@@ -104,22 +172,40 @@
             "acceleration": 4,
             "turn": 7
         },
-        "relationships": {
-            "characters": {
-                "file": "\\data\\characters\\characters.json",
-                "slugs": [
-                    "polar",
-                    "pura",
-                    "ripper-roo",
-                    "krunk",
-                    "real-velo",
-                    "zam",
-                    "liz",
-                    "baby-crash",
-                    "gnasty-gnorc",
-                    "rilla-roo"
-                ]
-            }
+        "characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "polar"
+                },
+                {
+                    "slug": "pura"
+                },
+                {
+                    "slug": "ripper-roo"
+                },
+                {
+                    "slug": "krunk"
+                },
+                {
+                    "slug": "real-velo"
+                },
+                {
+                    "slug": "zam"
+                },
+                {
+                    "slug": "liz"
+                },
+                {
+                    "slug": "baby-crash"
+                },
+                {
+                    "slug": "gnasty-gnorc"
+                },
+                {
+                    "slug": "rilla-roo"
+                }
+            ]
         }
     },
     {
@@ -133,14 +219,16 @@
             "acceleration": 2,
             "turn": 3
         },
-        "relationships": {
-            "characters": {
-                "file": "\\data\\characters\\characters.json",
-                "slugs": [
-                    "king-chicken",
-                    "hasty"
-                ]
-            }
+        "characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "king-chicken"
+                },
+                {
+                    "slug": "hasty"
+                }
+            ]
         }
     }
 ]
