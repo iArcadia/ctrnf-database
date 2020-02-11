@@ -11,21 +11,25 @@
                 "file": "\\assets\\img\\characters\\crash-bandicoot.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -40,21 +44,25 @@
                 "file": "\\assets\\img\\characters\\dr-neo-cortex.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -69,21 +77,25 @@
                 "file": "\\assets\\img\\characters\\tiny-tiger.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -98,21 +110,25 @@
                 "file": "\\assets\\img\\characters\\coco-bandicoot.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -127,21 +143,25 @@
                 "file": "\\assets\\img\\characters\\dr-n-gin.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -156,21 +176,25 @@
                 "file": "\\assets\\img\\characters\\dingodile.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -185,21 +209,25 @@
                 "file": "\\assets\\img\\characters\\polar.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -214,21 +242,25 @@
                 "file": "\\assets\\img\\characters\\pura.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -243,22 +275,25 @@
                 "file": "\\assets\\img\\characters\\penta-penguin.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku",
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -273,21 +308,25 @@
                 "file": "\\assets\\img\\characters\\ripper-roo.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -302,21 +341,25 @@
                 "file": "\\assets\\img\\characters\\papu-papu.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -331,21 +374,25 @@
                 "file": "\\assets\\img\\characters\\komodoe-joe.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -360,21 +407,25 @@
                 "file": "\\assets\\img\\characters\\pinstripe.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -389,21 +440,25 @@
                 "file": "\\assets\\img\\characters\\fake-crash.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -418,20 +473,16 @@
                 "file": "\\assets\\img\\characters\\nitros-oxide.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
+            }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
                 "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
         }
     },
@@ -447,21 +498,25 @@
                 "file": "\\assets\\img\\characters\\n-tropy.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -476,21 +531,25 @@
                 "file": "\\assets\\img\\characters\\crunch.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -505,21 +564,25 @@
                 "file": "\\assets\\img\\characters\\krunk.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -534,21 +597,25 @@
                 "file": "\\assets\\img\\characters\\small-norm.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -563,21 +630,25 @@
                 "file": "\\assets\\img\\characters\\big-norm.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -592,21 +663,25 @@
                 "file": "\\assets\\img\\characters\\nash.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -621,21 +696,25 @@
                 "file": "\\assets\\img\\characters\\n-trance.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -650,21 +729,25 @@
                 "file": "\\assets\\img\\characters\\real-velo.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -679,21 +762,25 @@
                 "file": "\\assets\\img\\characters\\geary.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -708,21 +795,25 @@
                 "file": "\\assets\\img\\characters\\zam.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -737,21 +828,25 @@
                 "file": "\\assets\\img\\characters\\zem.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "velo-mask"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "velo-mask"
+                }
+            ]
         }
     },
     {
@@ -766,21 +861,25 @@
                 "file": "\\assets\\img\\characters\\tawna.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -795,21 +894,25 @@
                 "file": "\\assets\\img\\characters\\ami.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -824,21 +927,25 @@
                 "file": "\\assets\\img\\characters\\megumi.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -853,21 +960,25 @@
                 "file": "\\assets\\img\\characters\\liz.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -882,21 +993,25 @@
                 "file": "\\assets\\img\\characters\\isabella.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -911,21 +1026,25 @@
                 "file": "\\assets\\img\\characters\\baby-crash.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -940,21 +1059,25 @@
                 "file": "\\assets\\img\\characters\\baby-coco.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -969,21 +1092,25 @@
                 "file": "\\assets\\img\\characters\\baby-t.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -998,21 +1125,25 @@
                 "file": "\\assets\\img\\characters\\spyro.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "sparx"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "sparx"
+                }
+            ]
         }
     },
     {
@@ -1027,21 +1158,25 @@
                 "file": "\\assets\\img\\characters\\hunter.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "sparx"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "sparx"
+                }
+            ]
         }
     },
     {
@@ -1056,21 +1191,25 @@
                 "file": "\\assets\\img\\characters\\gnasty-gnorc.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "sparx"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "sparx"
+                }
+            ]
         }
     },
     {
@@ -1085,21 +1224,25 @@
                 "file": "\\assets\\img\\characters\\komodo-moe.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -1114,21 +1257,25 @@
                 "file": "\\assets\\img\\characters\\n-brio.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -1143,21 +1290,25 @@
                 "file": "\\assets\\img\\characters\\nina-cortex.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -1172,21 +1323,25 @@
                 "file": "\\assets\\img\\characters\\koala-kong.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -1201,21 +1356,25 @@
                 "file": "\\assets\\img\\characters\\pasadena-o-possum.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1230,21 +1389,25 @@
                 "file": "\\assets\\img\\characters\\ebenezer-von-clutch.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1259,22 +1422,27 @@
                 "file": "\\assets\\img\\characters\\king-chicken.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "drift"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku",
-                    "uka-uka"
-                ]
             }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
         }
     },
     {
@@ -1289,21 +1457,28 @@
                 "file": "\\assets\\img\\characters\\rilla-roo.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "turn"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "turn"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                },
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1318,21 +1493,25 @@
                 "file": "\\assets\\img\\characters\\yaya-panda.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "speed"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "speed"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1347,21 +1526,19 @@
                 "file": "\\assets\\img\\characters\\hasty.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "drift"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1376,21 +1553,25 @@
                 "file": "\\assets\\img\\characters\\chick.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "balanced"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "balanced"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1405,21 +1586,25 @@
                 "file": "\\assets\\img\\characters\\stew.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": "acceleration"
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "aku-aku"
-                ]
             }
+        },
+        "driving-style": {
+            "file": "\\data\\driving-styles\\driving-styles.json",
+            "item": {
+                "slug": "acceleration"
+            }
+        },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "aku-aku"
+                }
+            ]
         }
     },
     {
@@ -1428,26 +1613,24 @@
             "en": "Megamix",
             "fr": "Megamix"
         },
+        "masks": {
+            "file": "\\data\\masks\\masks.json",
+            "items": [
+                {
+                    "slug": "uka-uka"
+                }
+            ]
+        },
         "assets": {
             "icon": {
                 "type": "image/png",
                 "file": "\\assets\\img\\characters\\megamix.png"
             }
         },
-        "relationships": {
-            "rarity": {
-                "file": "\\data\\rarities\\rarities.json",
+        "rarity": {
+            "file": "\\data\\rarities\\rarities.json",
+            "item": {
                 "slug": "default"
-            },
-            "driving-style": {
-                "file": "\\data\\driving-styles\\driving-styles.json",
-                "slug": null
-            },
-            "masks": {
-                "file": "\\data\\masks\\masks.json",
-                "slugs": [
-                    "uka-uka"
-                ]
             }
         }
     }
