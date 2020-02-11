@@ -11,13 +11,6 @@
                 "file": "\\assets\\img\\rarities\\default.png"
             }
         },
-        "relationships": {
-            "characters": {
-                "file": "\\data\\characters\\characters.json",
-                "slugs": [
-                ]
-            }
-        },
         "color": {
             "rgb": {
                 "red": 255,
