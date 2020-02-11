@@ -5,25 +5,43 @@
             "en": "N. Sanity Beach",
             "fr": "N. Sanity Beach"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "crash-cove",
-                    "mystery-caves",
-                    "roo-s-tubes",
-                    "sewer-speedway"
-                ]
-            },
-            "arenas": {
-                "file": "\\data\\arenas\\arenas.json",
-                "slugs": [
-                    "skull-rock"
-                ]
-            },
-            "adventure-mode-boss": {
-                "file": "\\data\\characters\\characters.json",
-                "slug": "ripper-roo"
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "crash-cove"
+                },
+                {
+                    "slug": "mystery-caves"
+                },
+                {
+                    "slug": "roo-s-tubes"
+                },
+                {
+                    "slug": "sewer-speedway"
+                }
+            ]
+        },
+        "arenas": {
+            "file": "\\data\\arenas\\arenas.json",
+            "item": {
+                "slug": "skull-rock"
+            }
+        },
+        "adventure-mode": {
+            "boss": {
+                "character": {
+                    "file": "\\data\\characters\\characters.json",
+                    "item": {
+                        "slug": "ripper-roo"
+                    }
+                },
+                "track": {
+                    "file": "\\data\\tracks\\tracks.json",
+                    "item": {
+                        "slug": "roo-s-tubes"
+                    }
+                }
             }
         }
     },
@@ -33,25 +51,43 @@
             "en": "The Lost Ruins",
             "fr": "Ruines Perdues"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "coco-park",
-                    "tiger-temple",
-                    "papu-s-pyramid",
-                    "dingo-canyon"
-                ]
-            },
-            "arenas": {
-                "file": "\\data\\arenas\\arenas.json",
-                "slugs": [
-                    "rampage-ruins"
-                ]
-            },
-            "adventure-mode-boss": {
-                "file": "\\data\\characters\\characters.json",
-                "slug": "papu-papu"
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "coco-park"
+                },
+                {
+                    "slug": "tiger-temple"
+                },
+                {
+                    "slug": "papu-s-pyramid"
+                },
+                {
+                    "slug": "dingo-canyon"
+                }
+            ]
+        },
+        "arena": {
+            "file": "\\data\\arenas\\arenas.json",
+            "item": {
+                "slug": "rampage-ruins"
+            }
+        },
+        "adventure-mode": {
+            "boss": {
+                "character": {
+                    "file": "\\data\\characters\\characters.json",
+                    "item": {
+                        "slug": "papu-papu"
+                    }
+                },
+                "track": {
+                    "file": "\\data\\tracks\\tracks.json",
+                    "item": {
+                        "slug": "papu-s-pyramid"
+                    }
+                }
             }
         }
     },
@@ -61,25 +97,43 @@
             "en": "Glacier Park",
             "fr": "Parc Glacier"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "polar-pass",
-                    "tiny-arena",
-                    "dragon-mines",
-                    "blizzard-bluff"
-                ]
-            },
-            "arenas": {
-                "file": "\\data\\arenas\\arenas.json",
-                "slugs": [
-                    "rocky-road"
-                ]
-            },
-            "adventure-mode-boss": {
-                "file": "\\data\\characters\\characters.json",
-                "slug": "komodo-joe"
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "polar-pass"
+                },
+                {
+                    "slug": "tiny-arena"
+                },
+                {
+                    "slug": "dragon-mines"
+                },
+                {
+                    "slug": "blizzard-bluff"
+                }
+            ]
+        },
+        "arena": {
+            "file": "\\data\\arenas\\arenas.json",
+            "item": {
+                "slug": "rocky-road"
+            }
+        },
+        "adventure-mode": {
+            "boss": {
+                "character": {
+                    "file": "\\data\\characters\\characters.json",
+                    "item": {
+                        "slug": "komodo-joe"
+                    }
+                },
+                "track": {
+                    "file": "\\data\\tracks\\tracks.json",
+                    "item": {
+                        "slug": "dragon-mines"
+                    }
+                }
             }
         }
     },
@@ -89,25 +143,43 @@
             "en": "Citadel City",
             "fr": "Ville de la Citadelle"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "hot-air-skyway",
-                    "cortex-castle",
-                    "n-gin-labs",
-                    "oxide-station"
-                ]
-            },
-            "arenas": {
-                "file": "\\data\\arenas\\arenas.json",
-                "slugs": [
-                    "nitro-court"
-                ]
-            },
-            "adventure-mode-boss": {
-                "file": "\\data\\characters\\characters.json",
-                "slug": "pinstripe"
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "hot-air-skyway"
+                },
+                {
+                    "slug": "cortex-castle"
+                },
+                {
+                    "slug": "n-gin-labs"
+                },
+                {
+                    "slug": "oxide-station"
+                }
+            ]
+        },
+        "arena": {
+            "file": "\\data\\arenas\\arenas.json",
+            "item": {
+                "slug": "nitro-court"
+            }
+        },
+        "adventure-mode": {
+            "boss": {
+                "character": {
+                    "file": "\\data\\characters\\characters.json",
+                    "item": {
+                        "slug": "pinstripe"
+                    }
+                },
+                "track": {
+                    "file": "\\data\\tracks\\tracks.json",
+                    "item": {
+                        "slug": "hot-air-skyway"
+                    }
+                }
             }
         }
     },
@@ -117,21 +189,31 @@
             "en": "Gem Stone Valley",
             "fr": "Vallée des Gemmes"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "slide-coliseum",
-                    "turbo-track"
-                ]
-            },
-            "arenas": {
-                "file": "\\data\\arenas\\arenas.json",
-                "slug": []
-            },
-            "adventure-mode-boss": {
-                "file": "\\data\\characters\\characters.json",
-                "slug": "nitros-oxide"
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "slide-coliseum"
+                },
+                {
+                    "slug": "turbo-track"
+                }
+            ]
+        },
+        "adventure-mode": {
+            "boss": {
+                "character": {
+                    "file": "\\data\\characters\\characters.json",
+                    "item": {
+                        "slug": "nitros-oxide"
+                    }
+                },
+                "track": {
+                    "file": "\\data\\tracks\\tracks.json",
+                    "item": {
+                        "slug": "oxide-station"
+                    }
+                }
             }
         }
     },
@@ -141,29 +223,49 @@
             "en": "Crash Nitro Kart",
             "fr": "Crash Nitro Kart"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "inferno-island",
-                    "jungle-boogie",
-                    "clockwork-wumpa",
-                    "android-alley",
-                    "electron-avenue",
-                    "deep-sea-driving",
-                    "thunder-struck",
-                    "tiny-temple",
-                    "meteor-gorge",
-                    "barin-ruins",
-                    "out-of-time",
-                    "assembly-lane",
-                    "hyperspaceway"
-                ]
-            },
-            "arenas": {
-                "file": "\\data\\arenas\\arenas.json",
-                "slug": []
-            }
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "inferno-island"
+                },
+                {
+                    "slug": "jungle-boogie"
+                },
+                {
+                    "slug": "clockwork-wumpa"
+                },
+                {
+                    "slug": "android-alley"
+                },
+                {
+                    "slug": "electron-avenue"
+                },
+                {
+                    "slug": "deep-sea-driving"
+                },
+                {
+                    "slug": "thunder-struck"
+                },
+                {
+                    "slug": "tiny-temple"
+                },
+                {
+                    "slug": "meteor-gorge"
+                },
+                {
+                    "slug": "barin-ruins"
+                },
+                {
+                    "slug": "out-of-time"
+                },
+                {
+                    "slug": "assembly-lane"
+                },
+                {
+                    "slug": "hyperspaceway"
+                }
+            ]
         }
     },
     {
@@ -172,19 +274,31 @@
             "en": "Bonus Tracks",
             "fr": "Circuits Bonus"
         },
-        "relationships": {
-            "tracks": {
-                "file": "\\data\\tracks\\tracks.json",
-                "slugs": [
-                    "turbo-stadium",
-                    "twilight-tour",
-                    "prehistoric-playground",
-                    "spyro-circuit",
-                    "nina-s-nightmare",
-                    "koala-carnival",
-                    "gingerbread-joyride"
-                ]
-            }
+        "tracks": {
+            "file": "\\data\\tracks\\tracks.json",
+            "items": [
+                {
+                    "slug": "turbo-stadium"
+                },
+                {
+                    "slug": "twilight-tour"
+                },
+                {
+                    "slug": "prehistoric-playground"
+                },
+                {
+                    "slug": "spyro-circuit"
+                },
+                {
+                    "slug": "nina-s-nightmare"
+                },
+                {
+                    "slug": "koala-carnival"
+                },
+                {
+                    "slug": "gingerbread-joyride"
+                }
+            ]
         }
     }
 ]
