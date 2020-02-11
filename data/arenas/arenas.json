@@ -10,9 +10,9 @@
             "normal-mode": 83000,
             "hard-mode": 55000
         },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
                 "slug": "n-sanity-beach"
             }
         }
@@ -28,9 +28,9 @@
             "normal-mode": 85000,
             "hard-mode": 70000
         },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
                 "slug": "the-lost-ruins"
             }
         }
@@ -46,9 +46,9 @@
             "normal-mode": 80000,
             "hard-mode": 77000
         },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
                 "slug": "glacier-park"
             }
         }
@@ -64,9 +64,9 @@
             "normal-mode": 120000,
             "hard-mode": 108000
         },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
                 "slug": "citadel-city"
             }
         }
