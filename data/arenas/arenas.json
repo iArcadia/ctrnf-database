@@ -1,0 +1,74 @@
+[
+    {
+        "slug": "skull-rock",
+        "name": {
+            "en": "Skull Rock",
+            "fr": ",?"
+        },
+        "crystal-challenge": {
+            "easy-mode": 88000,
+            "normal-mode": 83000,
+            "hard-mode": 55000
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "n-sanity-beach"
+            }
+        }
+    },
+    {
+        "slug": "rampage-ruins",
+        "name": {
+            "en": "Rampage Ruins",
+            "fr": ",?"
+        },
+        "crystal-challenge": {
+            "easy-mode": 90000,
+            "normal-mode": 85000,
+            "hard-mode": 70000
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "the-lost-ruins"
+            }
+        }
+    },
+    {
+        "slug": "rocky-road",
+        "name": {
+            "en": "Rocky Road",
+            "fr": ",?"
+        },
+        "crystal-challenge": {
+            "easy-mode": 85000,
+            "normal-mode": 80000,
+            "hard-mode": 77000
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
+        "slug": "nitro-court",
+        "name": {
+            "en": "Nitro Court",
+            "fr": "Court Nitro"
+        },
+        "crystal-challenge": {
+            "easy-mode": 125000,
+            "normal-mode": 120000,
+            "hard-mode": 108000
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "citadel-city"
+            }
+        }
+    }
+]

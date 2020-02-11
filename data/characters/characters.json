@@ -12,6 +12,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -37,6 +41,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -62,6 +70,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -87,6 +99,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -112,6 +128,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -137,6 +157,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -162,6 +186,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -187,6 +215,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -212,6 +244,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -238,6 +274,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -263,6 +303,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -288,6 +332,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -313,6 +361,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -338,6 +390,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -363,6 +419,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -388,6 +448,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -413,6 +477,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -438,6 +506,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -463,6 +535,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -488,6 +564,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -513,6 +593,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -538,6 +622,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -563,6 +651,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -588,6 +680,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -613,6 +709,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -638,6 +738,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -663,6 +767,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -688,6 +796,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -713,6 +825,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -738,6 +854,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -763,6 +883,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -788,6 +912,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -813,6 +941,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -838,6 +970,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -863,6 +999,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -888,6 +1028,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -913,6 +1057,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -938,6 +1086,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -963,6 +1115,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -988,6 +1144,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -1013,6 +1173,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -1038,6 +1202,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -1063,6 +1231,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -1088,6 +1260,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "drift"
@@ -1114,6 +1290,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "turn"
@@ -1139,6 +1319,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "speed"
@@ -1164,6 +1348,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "drift"
@@ -1189,6 +1377,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "balanced"
@@ -1214,6 +1406,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": "acceleration"
@@ -1239,6 +1435,10 @@
             }
         },
         "relationships": {
+            "rarity": {
+                "file": "\\data\\rarities\\rarities.json",
+                "slug": "default"
+            },
             "driving-style": {
                 "file": "\\data\\driving-styles\\driving-styles.json",
                 "slug": null

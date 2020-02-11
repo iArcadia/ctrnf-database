@@ -14,6 +14,16 @@
                     "roo-s-tubes",
                     "sewer-speedway"
                 ]
+            },
+            "arenas": {
+                "file": "\\data\\arenas\\arenas.json",
+                "slugs": [
+                    "skull-rock"
+                ]
+            },
+            "adventure-mode-boss": {
+                "file": "\\data\\characters\\characters.json",
+                "slug": "ripper-roo"
             }
         }
     },
@@ -32,6 +42,16 @@
                     "papu-s-pyramid",
                     "dingo-canyon"
                 ]
+            },
+            "arenas": {
+                "file": "\\data\\arenas\\arenas.json",
+                "slugs": [
+                    "rampage-ruins"
+                ]
+            },
+            "adventure-mode-boss": {
+                "file": "\\data\\characters\\characters.json",
+                "slug": "papu-papu"
             }
         }
     },
@@ -50,6 +70,16 @@
                     "dragon-mines",
                     "blizzard-bluff"
                 ]
+            },
+            "arenas": {
+                "file": "\\data\\arenas\\arenas.json",
+                "slugs": [
+                    "rocky-road"
+                ]
+            },
+            "adventure-mode-boss": {
+                "file": "\\data\\characters\\characters.json",
+                "slug": "komodo-joe"
             }
         }
     },
@@ -68,6 +98,16 @@
                     "n-gin-labs",
                     "oxide-station"
                 ]
+            },
+            "arenas": {
+                "file": "\\data\\arenas\\arenas.json",
+                "slugs": [
+                    "nitro-court"
+                ]
+            },
+            "adventure-mode-boss": {
+                "file": "\\data\\characters\\characters.json",
+                "slug": "pinstripe"
             }
         }
     },
@@ -84,6 +124,14 @@
                     "slide-coliseum",
                     "turbo-track"
                 ]
+            },
+            "arenas": {
+                "file": "\\data\\arenas\\arenas.json",
+                "slug": []
+            },
+            "adventure-mode-boss": {
+                "file": "\\data\\characters\\characters.json",
+                "slug": "nitros-oxide"
             }
         }
     },
@@ -111,6 +159,10 @@
                     "assembly-lane",
                     "hyperspaceway"
                 ]
+            },
+            "arenas": {
+                "file": "\\data\\arenas\\arenas.json",
+                "slug": []
             }
         }
     },

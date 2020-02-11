@@ -5,6 +5,12 @@
             "en": "Crash Cove",
             "fr": "Crique Crash"
         },
+        "wumpa-coin-payouts": {
+            "1st": 32,
+            "2nd": 29,
+            "3rd": 27,
+            "default": 24
+        },
         "time-trial": {
             "n-tropy-time": 94860,
             "nitros-oxide-time": 87520,
@@ -44,6 +50,12 @@
         "name": {
             "en": "Roo's Tubes",
             "fr": "Tubes Roo"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 33,
+            "2nd": 30,
+            "3rd": 28,
+            "default": 25
         },
         "time-trial": {
             "n-tropy-time": 94190,
@@ -85,6 +97,12 @@
             "en": "Mystery Caves",
             "fr": "Grotte Myst\u00e8re"
         },
+        "wumpa-coin-payouts": {
+            "1st": 46,
+            "2nd": 41,
+            "3rd": 39,
+            "default": 35
+        },
         "time-trial": {
             "n-tropy-time": 144450,
             "nitros-oxide-time": 134000,
@@ -124,6 +142,12 @@
         "name": {
             "en": "Sewer Speedway",
             "fr": "Circuit Ego\u00fbts"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 43,
+            "2nd": 39,
+            "3rd": 37,
+            "default": 32
         },
         "time-trial": {
             "n-tropy-time": 133700,
@@ -165,6 +189,12 @@
             "en": "Coco Park",
             "fr": "Parc Coco"
         },
+        "wumpa-coin-payouts": {
+            "1st": 32,
+            "2nd": 29,
+            "3rd": 27,
+            "default": 24
+        },
         "time-trial": {
             "n-tropy-time": 97530,
             "nitros-oxide-time": 89350,
@@ -204,6 +234,12 @@
         "name": {
             "en": "Tiger Temple",
             "fr": "Temple Tigre"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 41,
+            "2nd": 37,
+            "3rd": 35,
+            "default": 31
         },
         "time-trial": {
             "n-tropy-time": 122750,
@@ -245,6 +281,12 @@
             "en": "Papu's Pyramid",
             "fr": "Pyramide Papu"
         },
+        "wumpa-coin-payouts": {
+            "1st": 40,
+            "2nd": 36,
+            "3rd": 34,
+            "default": 30
+        },
         "time-trial": {
             "n-tropy-time": 119880,
             "nitros-oxide-time": 106240,
@@ -285,6 +327,12 @@
             "en": "Dingo Canyon",
             "fr": "Canyon Dingo"
         },
+        "wumpa-coin-payouts": {
+            "1st": 35,
+            "2nd": 32,
+            "3rd": 30,
+            "default": 26
+        },
         "time-trial": {
             "n-tropy-time": 108540,
             "nitros-oxide-time": 105470,
@@ -320,10 +368,108 @@
         }
     },
     {
+        "slug": "blizzard-bluff",
+        "name": {
+            "en": "Blizzard Bluff",
+            "fr": "Falaises Gla\u00e7\u00e9es"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 33,
+            "2nd": 30,
+            "3rd": 28,
+            "default": 25
+        },
+        "time-trial": {
+            "n-tropy-time": 97230,
+            "nitros-oxide-time": 88190,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/21/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/21/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/21/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 95000,
+                "gold-time": 73000,
+                "platinum-time": 50000
+            },
+            "normal-mode": {
+                "sapphire-time": 90000,
+                "gold-time": 68000,
+                "platinum-time": 45000
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/22/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/22/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/22/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
+        "slug": "dragon-mines",
+        "name": {
+            "en": "Dragon Mines",
+            "fr": "Mine Dragon"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 35,
+            "2nd": 32,
+            "3rd": 30,
+            "default": 26
+        },
+        "time-trial": {
+            "n-tropy-time": 105540,
+            "nitros-oxide-time": 94620,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/23/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/23/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/23/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 94000,
+                "gold-time": 76000,
+                "platinum-time": 60000
+            },
+            "normal-mode": {
+                "sapphire-time": 88000,
+                "gold-time": 71000,
+                "platinum-time": 54000
+            },
+            "time-crates": 39,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/24/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/24/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/24/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "glacier-park"
+            }
+        }
+    },
+    {
         "slug": "polar-pass",
         "name": {
             "en": "Polar Pass",
             "fr": "Col Polar"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 59,
+            "2nd": 53,
+            "3rd": 50,
+            "default": 44
         },
         "time-trial": {
             "n-tropy-time": 180580,
@@ -365,6 +511,12 @@
             "en": "Tiny Arena",
             "fr": "Ar\u00e8ne Tiny"
         },
+        "wumpa-coin-payouts": {
+            "1st": 73,
+            "2nd": 66,
+            "3rd": 62,
+            "default": 55
+        },
         "time-trial": {
             "n-tropy-time": 231430,
             "nitros-oxide-time": 223220,
@@ -400,130 +552,16 @@
         }
     },
     {
-        "slug": "dragon-mines",
-        "name": {
-            "en": "Dragon Mines",
-            "fr": "Mine Dragon"
-        },
-        "time-trial": {
-            "n-tropy-time": 105540,
-            "nitros-oxide-time": 94620,
-            "game-leaderboard-api-url": {
-                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/23/page/1",
-                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/23/page/1",
-                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/23/page/1"
-            }
-        },
-        "relic-race": {
-            "easy-mode": {
-                "sapphire-time": 94000,
-                "gold-time": 76000,
-                "platinum-time": 60000
-            },
-            "normal-mode": {
-                "sapphire-time": 88000,
-                "gold-time": 71000,
-                "platinum-time": 54000
-            },
-            "time-crates": 39,
-            "game-leaderboard-api-url": {
-                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/24/page/1",
-                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/24/page/1",
-                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/24/page/1"
-            }
-        },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
-                "slug": "glacier-park"
-            }
-        }
-    },
-    {
-        "slug": "blizzard-bluff",
-        "name": {
-            "en": "Blizzard Bluff",
-            "fr": "Falaises Gla\u00e7\u00e9es"
-        },
-        "time-trial": {
-            "n-tropy-time": 97230,
-            "nitros-oxide-time": 88190,
-            "game-leaderboard-api-url": {
-                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/21/page/1",
-                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/21/page/1",
-                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/21/page/1"
-            }
-        },
-        "relic-race": {
-            "easy-mode": {
-                "sapphire-time": 95000,
-                "gold-time": 73000,
-                "platinum-time": 50000
-            },
-            "normal-mode": {
-                "sapphire-time": 90000,
-                "gold-time": 68000,
-                "platinum-time": 45000
-            },
-            "time-crates": 40,
-            "game-leaderboard-api-url": {
-                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/22/page/1",
-                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/22/page/1",
-                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/22/page/1"
-            }
-        },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
-                "slug": "glacier-park"
-            }
-        }
-    },
-    {
-        "slug": "hot-air-skyway",
-        "name": {
-            "en": "Hot Air Skyway",
-            "fr": "Piste Air"
-        },
-        "time-trial": {
-            "n-tropy-time": 201430,
-            "nitros-oxide-time": 189890,
-            "game-leaderboard-api-url": {
-                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/33/page/1",
-                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/33/page/1",
-                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/33/page/1"
-            }
-        },
-        "relic-race": {
-            "easy-mode": {
-                "sapphire-time": 190000,
-                "gold-time": 159000,
-                "platinum-time": 127000
-            },
-            "normal-mode": {
-                "sapphire-time": 185000,
-                "gold-time": 154000,
-                "platinum-time": 122000
-            },
-            "time-crates": 56,
-            "game-leaderboard-api-url": {
-                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/34/page/1",
-                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/34/page/1",
-                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/34/page/1"
-            }
-        },
-        "relationships": {
-            "area": {
-                "file": "\\data\\areas\\areas.json",
-                "slug": "citadel-city"
-            }
-        }
-    },
-    {
         "slug": "cortex-castle",
         "name": {
             "en": "Cortex Castle",
             "fr": "Ch\u00e2teau Cortex"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 50,
+            "2nd": 45,
+            "3rd": 43,
+            "default": 38
         },
         "time-trial": {
             "n-tropy-time": 160390,
@@ -565,6 +603,12 @@
             "en": "N. Gin Labs",
             "fr": "Labo N. Gin"
         },
+        "wumpa-coin-payouts": {
+            "1st": 56,
+            "2nd": 50,
+            "3rd": 48,
+            "default": 42
+        },
         "time-trial": {
             "n-tropy-time": 171540,
             "nitros-oxide-time": 159650,
@@ -600,10 +644,62 @@
         }
     },
     {
+        "slug": "hot-air-skyway",
+        "name": {
+            "en": "Hot Air Skyway",
+            "fr": "Piste Air"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 65,
+            "2nd": 59,
+            "3rd": 55,
+            "default": 49
+        },
+        "time-trial": {
+            "n-tropy-time": 201430,
+            "nitros-oxide-time": 189890,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/33/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/33/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/33/page/1"
+            }
+        },
+        "relic-race": {
+            "easy-mode": {
+                "sapphire-time": 190000,
+                "gold-time": 159000,
+                "platinum-time": 127000
+            },
+            "normal-mode": {
+                "sapphire-time": 185000,
+                "gold-time": 154000,
+                "platinum-time": 122000
+            },
+            "time-crates": 56,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/34/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/34/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/34/page/1"
+            }
+        },
+        "relationships": {
+            "area": {
+                "file": "\\data\\areas\\areas.json",
+                "slug": "citadel-city"
+            }
+        }
+    },
+    {
         "slug": "oxide-station",
         "name": {
             "en": "Oxide Station",
             "fr": "Station Oxide"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 64,
+            "2nd": 58,
+            "3rd": 54,
+            "default": 48
         },
         "time-trial": {
             "n-tropy-time": 210140,
@@ -645,6 +741,12 @@
             "en": "Slide Coliseum",
             "fr": "Stade Glissade"
         },
+        "wumpa-coin-payouts": {
+            "1st": 43,
+            "2nd": 39,
+            "3rd": 37,
+            "default": 32
+        },
         "time-trial": {
             "n-tropy-time": 128490,
             "nitros-oxide-time": 120880,
@@ -684,6 +786,12 @@
         "name": {
             "en": "Turbo Track",
             "fr": "Circuit Turbo"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 45,
+            "2nd": 41,
+            "3rd": 38,
+            "default": 34
         },
         "time-trial": {
             "n-tropy-time": 138540,
@@ -725,6 +833,12 @@
             "en": "Inferno Island",
             "fr": "Ile Infernale"
         },
+        "wumpa-coin-payouts": {
+            "1st": 36,
+            "2nd": 32,
+            "3rd": 31,
+            "default": 27
+        },
         "time-trial": {
             "n-tropy-time": 114410,
             "nitros-oxide-time": 106470,
@@ -764,6 +878,12 @@
         "name": {
             "en": "Jungle Boogie",
             "fr": "Jungle en Folie"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 30,
+            "2nd": 27,
+            "3rd": 26,
+            "default": 23
         },
         "time-trial": {
             "n-tropy-time": 93890,
@@ -805,6 +925,12 @@
             "en": "Clockwork Wumpa",
             "fr": "Horloge Wumpa"
         },
+        "wumpa-coin-payouts": {
+            "1st": 53,
+            "2nd": 48,
+            "3rd": 45,
+            "default": 40
+        },
         "time-trial": {
             "n-tropy-time": 160090,
             "nitros-oxide-time": 143970,
@@ -844,6 +970,12 @@
         "name": {
             "en": "Android Alley",
             "fr": "Andro\u00efdes"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 68,
+            "2nd": 61,
+            "3rd": 58,
+            "default": 51
         },
         "time-trial": {
             "n-tropy-time": 197590,
@@ -885,6 +1017,12 @@
             "en": "Electron Avenue",
             "fr": "Electrons"
         },
+        "wumpa-coin-payouts": {
+            "1st": 80,
+            "2nd": 72,
+            "3rd": 68,
+            "default": 60
+        },
         "time-trial": {
             "n-tropy-time": 253520,
             "nitros-oxide-time": 232230,
@@ -924,6 +1062,12 @@
         "name": {
             "en": "Deep Sea Driving",
             "fr": "Eaux Profondes"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 48,
+            "2nd": 42,
+            "3rd": 41,
+            "default": 36
         },
         "time-trial": {
             "n-tropy-time": 142900,
@@ -965,6 +1109,12 @@
             "en": "Thunder Struck",
             "fr": "Foudre"
         },
+        "wumpa-coin-payouts": {
+            "1st": 56,
+            "2nd": 50,
+            "3rd": 48,
+            "default": 42
+        },
         "time-trial": {
             "n-tropy-time": 184180,
             "nitros-oxide-time": 178680,
@@ -1004,6 +1154,12 @@
         "name": {
             "en": "Tiny Temple",
             "fr": "Temple Tiny"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 46,
+            "2nd": 41,
+            "3rd": 39,
+            "default": 35
         },
         "time-trial": {
             "n-tropy-time": 126890,
@@ -1045,6 +1201,12 @@
             "en": "Meteor Gorge",
             "fr": "Gorges du M\u00e9t\u00e9ore"
         },
+        "wumpa-coin-payouts": {
+            "1st": 34,
+            "2nd": 31,
+            "3rd": 29,
+            "default": 26
+        },
         "time-trial": {
             "n-tropy-time": 105560,
             "nitros-oxide-time": 99000,
@@ -1084,6 +1246,12 @@
         "name": {
             "en": "Barin Ruins",
             "fr": "Ruines de Barin"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 41,
+            "2nd": 37,
+            "3rd": 35,
+            "default": 31
         },
         "time-trial": {
             "n-tropy-time": 127790,
@@ -1125,6 +1293,12 @@
             "en": "Out of Time",
             "fr": "Hors-Temps"
         },
+        "wumpa-coin-payouts": {
+            "1st": 60,
+            "2nd": 54,
+            "3rd": 51,
+            "default": 45
+        },
         "time-trial": {
             "n-tropy-time": 180050,
             "nitros-oxide-time": 160090,
@@ -1164,6 +1338,12 @@
         "name": {
             "en": "Assembly Lane",
             "fr": "Production"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 62,
+            "2nd": 56,
+            "3rd": 53,
+            "default": 47
         },
         "time-trial": {
             "n-tropy-time": 188760,
@@ -1205,6 +1385,12 @@
             "en": "Hyper Spaceway",
             "fr": "Hyperespace"
         },
+        "wumpa-coin-payouts": {
+            "1st": 59,
+            "2nd": 53,
+            "3rd": 50,
+            "default": 44
+        },
         "time-trial": {
             "n-tropy-time": 180910,
             "nitros-oxide-time": 160790,
@@ -1245,9 +1431,15 @@
             "en": "Retro Stadium",
             "fr": "Circuit Retro"
         },
+        "wumpa-coin-payouts": {
+            "1st": 45,
+            "2nd": 41,
+            "3rd": 38,
+            "default": 34
+        },
         "time-trial": {
-            "n-tropy-time": 0,
-            "nitros-oxide-time": 0,
+            "n-tropy-time": 138540,
+            "nitros-oxide-time": 126350,
             "game-leaderboard-api-url": {
                 "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/37/page/1"
             }
@@ -1280,6 +1472,12 @@
         "name": {
             "en": "Twilight Tour",
             "fr": "Circuit du Cr\u00e9puscule"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 50,
+            "2nd": 45,
+            "3rd": 43,
+            "default": 38
         },
         "time-trial": {
             "n-tropy-time": 179990,
@@ -1321,6 +1519,12 @@
             "en": "Prehistoric Playground",
             "fr": "Parc Pr\u00e9historique"
         },
+        "wumpa-coin-payouts": {
+            "1st": 59,
+            "2nd": 53,
+            "3rd": 50,
+            "default": 44
+        },
         "time-trial": {
             "n-tropy-time": 180080,
             "nitros-oxide-time": 161360,
@@ -1360,6 +1564,12 @@
         "name": {
             "en": "Spyro Circuit",
             "fr": "Circuit Spyro"
+        },
+        "wumpa-coin-payouts": {
+            "1st": 48,
+            "2nd": 42,
+            "3rd": 41,
+            "default": 36
         },
         "time-trial": {
             "n-tropy-time": 153090,
@@ -1401,9 +1611,15 @@
             "en": "Nina's Nightmare",
             "fr": "Cauchemar de Nina"
         },
+        "wumpa-coin-payouts": {
+            "1st": 45,
+            "2nd": 41,
+            "3rd": 38,
+            "default": 34
+        },
         "time-trial": {
-            "n-tropy-time": 0,
-            "nitros-oxide-time": 0,
+            "n-tropy-time": 137000,
+            "nitros-oxide-time": 118310,
             "game-leaderboard-api-url": {
                 "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/59/page/1",
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/59/page/1",
@@ -1441,9 +1657,15 @@
             "en": "Koala Carnival",
             "fr": "Cirque Koala"
         },
+        "wumpa-coin-payouts": {
+            "1st": 43,
+            "2nd": 39,
+            "3rd": 37,
+            "default": 32
+        },
         "time-trial": {
-            "n-tropy-time": 0,
-            "nitros-oxide-time": 0,
+            "n-tropy-time": 128800,
+            "nitros-oxide-time": 109780,
             "game-leaderboard-api-url": {
                 "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/85/page/1",
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/85/page/1",
@@ -1481,9 +1703,15 @@
             "en": "Gingerbread Joyride",
             "fr": "Chevauch\u00e9e de Pain d'Epice"
         },
+        "wumpa-coin-payouts": {
+            "1st": 46,
+            "2nd": 41,
+            "3rd": 39,
+            "default": 35
+        },
         "time-trial": {
-            "n-tropy-time": 0,
-            "nitros-oxide-time": 0,
+            "n-tropy-time": 148480,
+            "nitros-oxide-time": 123890,
             "game-leaderboard-api-url": {
                 "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/87/page/1",
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/87/page/1",
@@ -1521,9 +1749,15 @@
             "en": "Megamix Mania",
             "fr": "Megamix Mania"
         },
+        "wumpa-coin-payouts": {
+            "1st": 48,
+            "2nd": 42,
+            "3rd": 41,
+            "default": 36
+        },
         "time-trial": {
-            "n-tropy-time": 0,
-            "nitros-oxide-time": 0,
+            "n-tropy-time": 153080,
+            "nitros-oxide-time": 137340,
             "game-leaderboard-api-url": {
                 "playstation-4": null,
                 "xbox-one": null,
@@ -1531,16 +1765,16 @@
             }
         },
         "relic-race": {
-            "time-crates": 0,
+            "time-crates": 46,
             "easy-mode": {
-                "sapphire-time": 0,
-                "gold-time": 0,
-                "platinum-time": 0
+                "sapphire-time": 130000,
+                "gold-time": 105000,
+                "platinum-time": 97000
             },
             "normal-mode": {
-                "sapphire-time": 0,
-                "gold-time": 0,
-                "platinum-time": 0
+                "sapphire-time": 120000,
+                "gold-time": 100000,
+                "platinum-time": 87000
             },
             "game-leaderboard-api-url": {
                 "playstation-4": null,

@@ -104,6 +104,60 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
 }
 ```
 
+Some relationship objects might have a complementary attribute in order to bring more information.
+
+For example, a skin could be purchasable in the Pit Shop with an amount of 1500 Wumpa Coins:
+
+```json
+{
+    "slug": "my-skin",
+    "name": {
+        "en": "My skin",
+        "fr": "Mon skin"
+    },
+    "relationships": {
+        "way-to-unlock": {
+            "file": "\\data\\way-to-unlock\\way-to-unlock.json",
+            "slug": "buy-from-the-pit-shop",
+            "price":  1500
+        }
+    }
+}
+```
+
+Wait, in reality, this skin is also unlockable from the Nitro bar of the Back'n'Time Grand Prix once you attain 1500 points:
+
+```json
+{
+    "slug": "my-skin",
+    "name": {
+        "en": "My skin",
+        "fr": "Mon skin"
+    },
+    "relationships": {
+        "way-to-unlock": {
+            "file": "\\data\\way-to-unlock\\way-to-unlock.json",
+            "slugs": [
+                {
+                    "slug": "buy-from-the-pit-shop",
+                    "price": 1500
+                },
+                {
+                    "slug": "grand-prix-nitro-bar",
+                    "points": 1500,
+                    "relationships": {
+                        "grand-prix": {
+                            "file": "\\data\\grand-prix\\grand-prix.json",
+                            "slug": "back-n-time"
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
+```
+
 ## All resource structures
 
 ### Areas
@@ -111,11 +165,18 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
 #### Relationships
 
 - `tracks: array<Track>` stores the tracks of the area
+- `arenas: array<Arena>` stores the arenas of the area
+- `adventure-mode-boss: Character` is the boss character of the area
 
 ### Tracks
 
 #### Properties
 
+- `wumpa-coin-payouts: object` stores Wumpa Coin payouts
+    - `1st: integer` is the number of Wumpa Coins earned by finishing this track in 1st position
+    - `2nd: integer` is the number of Wumpa Coins earned by finishing this track in 2nd position
+    - `3rd: integer` is the number of Wumpa Coins earned by finishing this track in 3rd position
+    - `default: integer` is the default number of Wumpa Coins earned by finishing this track (below the 3rd position)
 - `time-trial: object` stores Time Trial mode related data
     - `n-tropy-time: integer` is the time made by N. Tropy in milliseconds
     - `nitros-oxide-time: integer` is the time made by Nitros Oxide in milliseconds
@@ -141,6 +202,19 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
 #### Relationships
 
 - `area: Area` is the area from the track is
+
+### Arenas
+
+#### Properties
+
+- `crystal-challenge: object` stores information about the crystal challenge
+    - `easy-mode: integer` is time needed to succeed the challenge in easy mode
+    - `normal-mode: integer` is time needed to succeed the challenge in normal mode
+    - `hard-mode: integer` is time needed to succeed the challenge in hard mode
+        
+#### Relationships
+
+- `area: Area` is the area from the arena is
         
 ### Driving styles
 
@@ -162,10 +236,24 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
 - `characters: array<Character>` stores the characters using the mask
 - `tracks: array<Track>` stores the tracks using this mask
 
+### Rarities
+
+- `color: object` stores information about the color of the rarity
+    - `rgb: object` stores information about RGB values of the color
+        - `red: integer` is the red value between 0 and 255
+        - `green: integer` is the green value between 0 and 255
+        - `blue: integer` is the blue value between 0 and 255
+    - `hexadecimal: string` is the hexadecimal notation of the color
+    
+#### Relationships
+
+- `characters: array<Character>` stores all the characters which have this rarity
+
 ### Characters
 
 #### Relationships
 
+- `rarity: Rarity` is the rarity of the character
 - `driving-style: Driving Style` is the default driving style used as default by the character
 - `masks: array<Mask>` stores the masks used by the character.
 

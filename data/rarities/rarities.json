@@ -1,0 +1,93 @@
+[
+    {
+        "slug": "default",
+        "name": {
+            "en": "Default",
+            "fr": "Défaut"
+        },
+        "assets": {
+            "icon-background": {
+                "type": "image/png",
+                "file": "\\assets\\img\\rarities\\default.png"
+            }
+        },
+        "relationships": {
+            "characters": {
+                "file": "\\data\\characters\\characters.json",
+                "slugs": [
+                ]
+            }
+        },
+        "color": {
+            "rgb": {
+                "red": 255,
+                "green": 255,
+                "blue": 255
+            },
+            "hexadecimal": "ffffff"
+        }
+    },
+    {
+        "slug": "basic",
+        "name": {
+            "en": "Basic",
+            "fr": "Basique"
+        },
+        "assets": {
+            "icon-background": {
+                "type": "image/png",
+                "file": "\\assets\\img\\rarities\\basic.png"
+            }
+        },
+        "color": {
+            "rgb": {
+                "red": 128,
+                "green": 201,
+                "blue": 255
+            },
+            "hexadecimal": "80c9ff"
+        }
+    },
+    {
+        "slug": "exotic",
+        "name": {
+            "en": "Exotic",
+            "fr": "Exotique"
+        },
+        "assets": {
+            "icon-background": {
+                "type": "image/png",
+                "file": "\\assets\\img\\rarities\\exotic.png"
+            }
+        },
+        "color": {
+            "rgb": {
+                "red": 161,
+                "green": 126,
+                "blue": 254
+            },
+            "hexadecimal": "a17efe"
+        }
+    },
+    {
+        "slug": "legendary",
+        "name": {
+            "en": "Legendary",
+            "fr": "Légendaire"
+        },
+        "assets": {
+            "icon-background": {
+                "type": "image/png",
+                "file": "\\assets\\img\\rarities\\legendary.png"
+            }
+        },
+        "color": {
+            "rgb": {
+                "red": 254,
+                "green": 216,
+                "blue": 0
+            },
+            "hexadecimal": "ffcc00"
+        }
+    }
+]
