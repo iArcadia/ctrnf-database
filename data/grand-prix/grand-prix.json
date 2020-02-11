@@ -5,21 +5,31 @@
             "en": "Nitro Tour",
             "fr": "Nitro Tour"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "twilight-tour"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "tawna",
-                    "ami",
-                    "megumi",
-                    "liz",
-                    "isabella"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "tawna"
+                },
+                {
+                    "slug": "ami"
+                },
+                {
+                    "slug": "megumi"
+                },
+                {
+                    "slug": "liz"
+                },
+                {
+                    "slug": "isabella"
+                }
+            ]
         },
         "duration": {
             "start-date": "2019-07-03",
@@ -32,19 +42,25 @@
             "en": "Back N. Time",
             "fr": "Retour dans le Passé"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "prehistoric-playground"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "baby-t",
-                    "baby-crash",
-                    "baby-coco"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "baby-t"
+                },
+                {
+                    "slug": "baby-crash"
+                },
+                {
+                    "slug": "baby-coco"
+                }
+            ]
         },
         "duration": {
             "start-date": "2019-08-02",
@@ -57,19 +73,25 @@
             "en": "Spyro N. Friends",
             "fr": "Spyro & Friends"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "spyro-circuit"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "spyro",
-                    "hunter",
-                    "gnasty-gnorc"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "spyro"
+                },
+                {
+                    "slug": "hunter"
+                },
+                {
+                    "slug": "gnasty-gnorc"
+                }
+            ]
         },
         "duration": {
             "start-date": "2019-08-30",
@@ -82,19 +104,25 @@
             "en": "Spooky",
             "fr": "Effrayant"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "nina-s-nightmare"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "nina-cortex",
-                    "n-brio",
-                    "komodo-moe"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "nina-cortex"
+                },
+                {
+                    "slug": "n-brio"
+                },
+                {
+                    "slug": "komodo-moe"
+                }
+            ]
         },
         "duration": {
             "start-date": "2019-10-04",
@@ -107,20 +135,28 @@
             "en": "Neon Circus",
             "fr": "Cirque Néon"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "koala-carnival"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "pasadena-o-possum",
-                    "ebenezer-von-clutch",
-                    "koala-kong",
-                    "king-chicken"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "pasadena-o-possum"
+                },
+                {
+                    "slug": "ebenezer-von-clutch"
+                },
+                {
+                    "slug": "koala-kong"
+                },
+                {
+                    "slug": "king-chicken"
+                }
+            ]
         },
         "duration": {
             "start-date": "2019-11-08",
@@ -133,21 +169,31 @@
             "en": "Winter Festival",
             "fr": "Festival Hivernal"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "gingerbread-joyride"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "hasty",
-                    "rilla-roo",
-                    "yaya-panda",
-                    "chick",
-                    "stew"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "hasty"
+                },
+                {
+                    "slug": "rilla-roo"
+                },
+                {
+                    "slug": "yaya-panda"
+                },
+                {
+                    "slug": "chick"
+                },
+                {
+                    "slug": "stew"
+                }
+            ]
         },
         "duration": {
             "start-date": "2019-12-12",
@@ -160,17 +206,19 @@
             "en": "Rustland",
             "fr": "Rustland"
         },
-        "relationships": {
-            "new-track": {
-                "file": "tracks",
+        "new-track": {
+            "file": "\\data\\tracks\\tracks.json",
+            "item": {
                 "slug": "megamix-mania"
-            },
-            "new-characters": {
-                "file": "characters",
-                "slugs": [
-                    "megamix"
-                ]
             }
+        },
+        "new-characters": {
+            "file": "\\data\\characters\\characters.json",
+            "items": [
+                {
+                    "slug": "megamix"
+                }
+            ]
         },
         "duration": {
             "start-date": "2020-01-16",
