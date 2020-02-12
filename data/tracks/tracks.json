@@ -5,11 +5,23 @@
             "en": "Crash Cove",
             "fr": "Crique Crash"
         },
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 2,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 32,
             "2nd": 29,
             "3rd": 27,
             "default": 24
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 94860,
@@ -51,11 +63,23 @@
             "en": "Roo's Tubes",
             "fr": "Tubes Roo"
         },
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 4,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 33,
             "2nd": 30,
             "3rd": 28,
             "default": 25
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 94190,
@@ -97,11 +121,23 @@
             "en": "Mystery Caves",
             "fr": "Grotte Myst\u00e8re"
         },
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 7,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 46,
             "2nd": 41,
             "3rd": 39,
             "default": 35
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 144450,
@@ -143,11 +179,23 @@
             "en": "Sewer Speedway",
             "fr": "Circuit Ego\u00fbts"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 43,
             "2nd": 39,
             "3rd": 37,
             "default": 32
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 133700,
@@ -189,11 +237,23 @@
             "en": "Coco Park",
             "fr": "Parc Coco"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 32,
             "2nd": 29,
             "3rd": 27,
             "default": 24
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 97530,
@@ -235,11 +295,23 @@
             "en": "Tiger Temple",
             "fr": "Temple Tigre"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 41,
             "2nd": 37,
             "3rd": 35,
             "default": 31
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 122750,
@@ -281,11 +353,23 @@
             "en": "Papu's Pyramid",
             "fr": "Pyramide Papu"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 40,
             "2nd": 36,
             "3rd": 34,
             "default": 30
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 119880,
@@ -327,11 +411,23 @@
             "en": "Dingo Canyon",
             "fr": "Canyon Dingo"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 35,
             "2nd": 32,
             "3rd": 30,
             "default": 26
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 108540,
@@ -373,11 +469,23 @@
             "en": "Blizzard Bluff",
             "fr": "Falaises Gla\u00e7\u00e9es"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 33,
             "2nd": 30,
             "3rd": 28,
             "default": 25
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 97230,
@@ -419,11 +527,23 @@
             "en": "Dragon Mines",
             "fr": "Mine Dragon"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 35,
             "2nd": 32,
             "3rd": 30,
             "default": 26
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 105540,
@@ -465,11 +585,23 @@
             "en": "Polar Pass",
             "fr": "Col Polar"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 59,
             "2nd": 53,
             "3rd": 50,
             "default": 44
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 180580,
@@ -511,11 +643,23 @@
             "en": "Tiny Arena",
             "fr": "Ar\u00e8ne Tiny"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 73,
             "2nd": 66,
             "3rd": 62,
             "default": 55
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 231430,
@@ -557,11 +701,23 @@
             "en": "Cortex Castle",
             "fr": "Ch\u00e2teau Cortex"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 50,
             "2nd": 45,
             "3rd": 43,
             "default": 38
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 160390,
@@ -603,11 +759,23 @@
             "en": "N. Gin Labs",
             "fr": "Labo N. Gin"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 56,
             "2nd": 50,
             "3rd": 48,
             "default": 42
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 171540,
@@ -649,11 +817,23 @@
             "en": "Hot Air Skyway",
             "fr": "Piste Air"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 65,
             "2nd": 59,
             "3rd": 55,
             "default": 49
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 201430,
@@ -695,11 +875,23 @@
             "en": "Oxide Station",
             "fr": "Station Oxide"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 64,
             "2nd": 58,
             "3rd": 54,
             "default": 48
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 210140,
@@ -741,11 +933,23 @@
             "en": "Slide Coliseum",
             "fr": "Stade Glissade"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 43,
             "2nd": 39,
             "3rd": 37,
             "default": 32
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 128490,
@@ -787,11 +991,23 @@
             "en": "Turbo Track",
             "fr": "Circuit Turbo"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 45,
             "2nd": 41,
             "3rd": 38,
             "default": 34
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 138540,
@@ -833,11 +1049,23 @@
             "en": "Inferno Island",
             "fr": "Ile Infernale"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 36,
             "2nd": 32,
             "3rd": 31,
             "default": 27
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 114410,
@@ -879,11 +1107,23 @@
             "en": "Jungle Boogie",
             "fr": "Jungle en Folie"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 30,
             "2nd": 27,
             "3rd": 26,
             "default": 23
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 93890,
@@ -925,11 +1165,23 @@
             "en": "Clockwork Wumpa",
             "fr": "Horloge Wumpa"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 53,
             "2nd": 48,
             "3rd": 45,
             "default": 40
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 160090,
@@ -971,11 +1223,23 @@
             "en": "Android Alley",
             "fr": "Andro\u00efdes"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 68,
             "2nd": 61,
             "3rd": 58,
             "default": 51
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 197590,
@@ -1017,11 +1281,23 @@
             "en": "Electron Avenue",
             "fr": "Electrons"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 80,
             "2nd": 72,
             "3rd": 68,
             "default": 60
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 253520,
@@ -1063,11 +1339,23 @@
             "en": "Deep Sea Driving",
             "fr": "Eaux Profondes"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 48,
             "2nd": 42,
             "3rd": 41,
             "default": 36
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 142900,
@@ -1109,11 +1397,23 @@
             "en": "Thunder Struck",
             "fr": "Foudre"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 56,
             "2nd": 50,
             "3rd": 48,
             "default": 42
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 184180,
@@ -1155,11 +1455,23 @@
             "en": "Tiny Temple",
             "fr": "Temple Tiny"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 46,
             "2nd": 41,
             "3rd": 39,
             "default": 35
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 126890,
@@ -1201,11 +1513,23 @@
             "en": "Meteor Gorge",
             "fr": "Gorges du M\u00e9t\u00e9ore"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 34,
             "2nd": 31,
             "3rd": 29,
             "default": 26
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 105560,
@@ -1247,11 +1571,23 @@
             "en": "Barin Ruins",
             "fr": "Ruines de Barin"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 41,
             "2nd": 37,
             "3rd": 35,
             "default": 31
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 127790,
@@ -1293,11 +1629,23 @@
             "en": "Out of Time",
             "fr": "Hors-Temps"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 60,
             "2nd": 54,
             "3rd": 51,
             "default": 45
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 180050,
@@ -1339,11 +1687,23 @@
             "en": "Assembly Lane",
             "fr": "Production"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 62,
             "2nd": 56,
             "3rd": 53,
             "default": 47
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 188760,
@@ -1385,11 +1745,23 @@
             "en": "Hyper Spaceway",
             "fr": "Hyperespace"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 59,
             "2nd": 53,
             "3rd": 50,
             "default": 44
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 180910,
@@ -1431,11 +1803,23 @@
             "en": "Retro Stadium",
             "fr": "Circuit Retro"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 45,
             "2nd": 41,
             "3rd": 38,
             "default": 34
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 138540,
@@ -1473,11 +1857,23 @@
             "en": "Twilight Tour",
             "fr": "Circuit du Cr\u00e9puscule"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 50,
             "2nd": 45,
             "3rd": 43,
             "default": 38
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 179990,
@@ -1519,11 +1915,23 @@
             "en": "Prehistoric Playground",
             "fr": "Parc Pr\u00e9historique"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 59,
             "2nd": 53,
             "3rd": 50,
             "default": 44
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 180080,
@@ -1565,11 +1973,23 @@
             "en": "Spyro Circuit",
             "fr": "Circuit Spyro"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 48,
             "2nd": 42,
             "3rd": 41,
             "default": 36
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 153090,
@@ -1611,11 +2031,23 @@
             "en": "Nina's Nightmare",
             "fr": "Cauchemar de Nina"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 45,
             "2nd": 41,
             "3rd": 38,
             "default": 34
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 137000,
@@ -1657,11 +2089,23 @@
             "en": "Koala Carnival",
             "fr": "Cirque Koala"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 43,
             "2nd": 39,
             "3rd": 37,
             "default": 32
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 128800,
@@ -1703,11 +2147,23 @@
             "en": "Gingerbread Joyride",
             "fr": "Chevauch\u00e9e de Pain d'Epice"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 46,
             "2nd": 41,
             "3rd": 39,
             "default": 35
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 148480,
@@ -1749,11 +2205,23 @@
             "en": "Megamix Mania",
             "fr": "Megamix Mania"
         },
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
         "wumpa-coin-payouts": {
             "1st": 48,
             "2nd": 42,
             "3rd": 41,
             "default": 36
+        },
+        "single-race": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "time-trial": {
             "n-tropy-time": 153080,
