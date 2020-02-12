@@ -5,6 +5,7 @@
             "en": "Crash Cove",
             "fr": "Crique Crash"
         },
+        "event-crates": 0,
         "shortcuts": 1,
         "turbo-pads": {
             "sacred-fire": 2,
@@ -63,6 +64,7 @@
             "en": "Roo's Tubes",
             "fr": "Tubes Roo"
         },
+        "event-crates": 0,
         "shortcuts": 1,
         "turbo-pads": {
             "sacred-fire": 4,
@@ -121,6 +123,7 @@
             "en": "Mystery Caves",
             "fr": "Grotte Myst\u00e8re"
         },
+        "event-crates": 0,
         "shortcuts": 1,
         "turbo-pads": {
             "sacred-fire": 7,
@@ -179,6 +182,7 @@
             "en": "Sewer Speedway",
             "fr": "Circuit Ego\u00fbts"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -237,6 +241,7 @@
             "en": "Coco Park",
             "fr": "Parc Coco"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -295,6 +300,7 @@
             "en": "Tiger Temple",
             "fr": "Temple Tigre"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -353,6 +359,7 @@
             "en": "Papu's Pyramid",
             "fr": "Pyramide Papu"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -411,6 +418,7 @@
             "en": "Dingo Canyon",
             "fr": "Canyon Dingo"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -469,6 +477,7 @@
             "en": "Blizzard Bluff",
             "fr": "Falaises Gla\u00e7\u00e9es"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -527,6 +536,7 @@
             "en": "Dragon Mines",
             "fr": "Mine Dragon"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -585,6 +595,7 @@
             "en": "Polar Pass",
             "fr": "Col Polar"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -643,6 +654,7 @@
             "en": "Tiny Arena",
             "fr": "Ar\u00e8ne Tiny"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -701,6 +713,7 @@
             "en": "Cortex Castle",
             "fr": "Ch\u00e2teau Cortex"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -759,6 +772,7 @@
             "en": "N. Gin Labs",
             "fr": "Labo N. Gin"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -817,6 +831,7 @@
             "en": "Hot Air Skyway",
             "fr": "Piste Air"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -875,6 +890,7 @@
             "en": "Oxide Station",
             "fr": "Station Oxide"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -933,6 +949,7 @@
             "en": "Slide Coliseum",
             "fr": "Stade Glissade"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -991,6 +1008,7 @@
             "en": "Turbo Track",
             "fr": "Circuit Turbo"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1049,6 +1067,7 @@
             "en": "Inferno Island",
             "fr": "Ile Infernale"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1107,6 +1126,7 @@
             "en": "Jungle Boogie",
             "fr": "Jungle en Folie"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1165,6 +1185,7 @@
             "en": "Clockwork Wumpa",
             "fr": "Horloge Wumpa"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1223,6 +1244,7 @@
             "en": "Android Alley",
             "fr": "Andro\u00efdes"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1281,6 +1303,7 @@
             "en": "Electron Avenue",
             "fr": "Electrons"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1339,6 +1362,7 @@
             "en": "Deep Sea Driving",
             "fr": "Eaux Profondes"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1397,6 +1421,7 @@
             "en": "Thunder Struck",
             "fr": "Foudre"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1455,6 +1480,7 @@
             "en": "Tiny Temple",
             "fr": "Temple Tiny"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1513,6 +1539,7 @@
             "en": "Meteor Gorge",
             "fr": "Gorges du M\u00e9t\u00e9ore"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1571,6 +1598,7 @@
             "en": "Barin Ruins",
             "fr": "Ruines de Barin"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1629,6 +1657,7 @@
             "en": "Out of Time",
             "fr": "Hors-Temps"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1687,6 +1716,7 @@
             "en": "Assembly Lane",
             "fr": "Production"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1745,6 +1775,7 @@
             "en": "Hyper Spaceway",
             "fr": "Hyperespace"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1803,6 +1834,7 @@
             "en": "Retro Stadium",
             "fr": "Circuit Retro"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1857,6 +1889,7 @@
             "en": "Twilight Tour",
             "fr": "Circuit du Cr\u00e9puscule"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1915,6 +1948,7 @@
             "en": "Prehistoric Playground",
             "fr": "Parc Pr\u00e9historique"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -1973,6 +2007,7 @@
             "en": "Spyro Circuit",
             "fr": "Circuit Spyro"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -2031,6 +2066,7 @@
             "en": "Nina's Nightmare",
             "fr": "Cauchemar de Nina"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -2089,6 +2125,7 @@
             "en": "Koala Carnival",
             "fr": "Cirque Koala"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -2147,6 +2184,7 @@
             "en": "Gingerbread Joyride",
             "fr": "Chevauch\u00e9e de Pain d'Epice"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,
@@ -2205,6 +2243,7 @@
             "en": "Megamix Mania",
             "fr": "Megamix Mania"
         },
+        "event-crates": 0,
         "shortcuts": 0,
         "turbo-pads": {
             "sacred-fire": 0,

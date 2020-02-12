@@ -41,6 +41,14 @@
                     "item": {
                         "slug": "roo-s-tubes"
                     }
+                },
+                "items": {
+                    "file": "\\data\\items\\items.json",
+                    "items": [
+                        {
+                            "slug": "explosive-crate"
+                        }
+                    ]
                 }
             }
         }
@@ -87,6 +95,14 @@
                     "item": {
                         "slug": "papu-s-pyramid"
                     }
+                },
+                "items": {
+                    "file": "\\data\\items\\items.json",
+                    "items": [
+                        {
+                            "slug": ""
+                        }
+                    ]
                 }
             }
         }
@@ -133,6 +149,14 @@
                     "item": {
                         "slug": "dragon-mines"
                     }
+                },
+                "items": {
+                    "file": "\\data\\items\\items.json",
+                    "items": [
+                        {
+                            "slug": ""
+                        }
+                    ]
                 }
             }
         }
@@ -179,6 +203,14 @@
                     "item": {
                         "slug": "hot-air-skyway"
                     }
+                },
+                "items": {
+                    "file": "\\data\\items\\items.json",
+                    "items": [
+                        {
+                            "slug": ""
+                        }
+                    ]
                 }
             }
         }
@@ -213,6 +245,23 @@
                     "item": {
                         "slug": "oxide-station"
                     }
+                },
+                "items": {
+                    "file": "\\data\\items\\items.json",
+                    "items": [
+                        {
+                            "slug": "explosive-crate"
+                        },
+                        {
+                            "slug": "n-brios-s-beaker"
+                        },
+                        {
+                            "slug": "bowling-bomb"
+                        },
+                        {
+                            "slug": ""
+                        }
+                    ]
                 }
             }
         }

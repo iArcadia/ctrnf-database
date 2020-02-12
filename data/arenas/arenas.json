@@ -3,7 +3,15 @@
         "slug": "skull-rock",
         "name": {
             "en": "Skull Rock",
-            "fr": ",?"
+            "fr": "Tête de Mort"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "crystal-challenge": {
             "easy-mode": 88000,
@@ -21,7 +29,15 @@
         "slug": "rampage-ruins",
         "name": {
             "en": "Rampage Ruins",
-            "fr": ",?"
+            "fr": "Ruines"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "crystal-challenge": {
             "easy-mode": 90000,
@@ -39,7 +55,15 @@
         "slug": "rocky-road",
         "name": {
             "en": "Rocky Road",
-            "fr": ",?"
+            "fr": "Chemin Ardu"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "crystal-challenge": {
             "easy-mode": 85000,
@@ -57,7 +81,15 @@
         "slug": "nitro-court",
         "name": {
             "en": "Nitro Court",
-            "fr": "Court Nitro"
+            "fr": "Cour Nitro"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
         },
         "crystal-challenge": {
             "easy-mode": 125000,
@@ -68,6 +100,214 @@
             "file": "\\data\\areas\\areas.json",
             "item": {
                 "slug": "citadel-city"
+            }
+        }
+    },
+    {
+        "slug": "parking-lot",
+        "name": {
+            "en": "Parking Lot",
+            "fr": "Parking"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 92000,
+            "normal-mode": 87000,
+            "hard-mode": 82000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "the-north-bowl",
+        "name": {
+            "en": "The North Bown",
+            "fr": "Bassin Nord"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 90000,
+            "normal-mode": 85000,
+            "hard-mode": 74000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "lab-basement",
+        "name": {
+            "en": "Lab Basement",
+            "fr": "Sous-sol Labo"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 70000,
+            "normal-mode": 60000,
+            "hard-mode": 50000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "temple-turmoil",
+        "name": {
+            "en": "Temple Turmoil",
+            "fr": "Panique au Temple"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 95000,
+            "normal-mode": 90000,
+            "hard-mode": 60000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "frozen-frenzy",
+        "name": {
+            "en": "Frozen Frenzy",
+            "fr": "Frénésie de Glace"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 100000,
+            "normal-mode": 93000,
+            "hard-mode": 80000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "desert-storm",
+        "name": {
+            "en": "Desert Storm",
+            "fr": "Tempête du Désert"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 128000,
+            "normal-mode": 120000,
+            "hard-mode": 94000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "magnetic-mayhem",
+        "name": {
+            "en": "Magnetic Mayhem",
+            "fr": "Fracas Magnétique"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 145000,
+            "normal-mode": 135000,
+            "hard-mode": 93000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
+            }
+        }
+    },
+    {
+        "slug": "terra-drome",
+        "name": {
+            "en": "Terra Drome",
+            "fr": "Terra Drome"
+        },
+        "event-crates": 0,
+        "battle": {
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "crystal-challenge": {
+            "easy-mode": 110000,
+            "normal-mode": 100000,
+            "hard-mode": 75000
+        },
+        "area": {
+            "file": "\\data\\areas\\areas.json",
+            "item": {
+                "slug": "crash-nitro-kart"
             }
         }
     }
