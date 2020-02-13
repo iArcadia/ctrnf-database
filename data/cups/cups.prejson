@@ -1,0 +1,170 @@
+[
+    {
+        "slug": "wumpa-cup",
+        "name": {
+            "en": "Wumpa Cup",
+            "fr": "Coupe Wumpa"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "crash-cove",
+                "tiger-temple",
+                "blizzard-bluff",
+                "coco-park"
+            ]
+        }
+    },
+    {
+        "slug": "nitro-cup",
+        "name": {
+            "en": "Nitro Cup",
+            "fr": "Coupe Nitro"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "mystery-caves",
+                "papu-s-pyramid",
+                "cortex-castle",
+                "tiny-arena"
+            ]
+        }
+    },
+    {
+        "slug": "crystal-cup",
+        "name": {
+            "en": "Crystal Cup",
+            "fr": "Coupe Cristal"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "roo-s-tubes",
+                "dingo-canyon",
+                "dragon-mines",
+                "sewer-speedway"
+            ]
+        }
+    },
+    {
+        "slug": "crash-cup",
+        "name": {
+            "en": "Crash Cup",
+            "fr": "Coupe Crash"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "polar-pass",
+                "n-gins-labs",
+                "hot-air-skyway",
+                "slide-coliseum"
+            ]
+        }
+    },
+    {
+        "slug": "velo-cup",
+        "name": {
+            "en": "Velo Cup",
+            "fr": "Coupe Velo"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "inferno-island",
+                "meteor-gorge",
+                "assembly-lane",
+                "hyper-spaceway"
+            ]
+        }
+    },
+    {
+        "slug": "aku-cup",
+        "name": {
+            "en": "Aku Cup",
+            "fr": "Coupe Aku"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "android-alley",
+                "tiny-temple",
+                "thunder-struck",
+                "barin-ruins"
+            ]
+        }
+    },
+    {
+        "slug": "uka-cup",
+        "name": {
+            "en": "Uka Cup",
+            "fr": "Coupe Uka"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "jungle-boogie",
+                "deep-sea-driving",
+                "out-of-time",
+                "electron-avenue"
+            ]
+        }
+    },
+    {
+        "slug": "lost-cup",
+        "name": {
+            "en": "Lost Cup",
+            "fr": "Coupe Perdue"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "clockwork-wumpa",
+                "oxide-station",
+                "twilight-tour",
+                "prehistoric-playground"
+            ]
+        },
+        "added-by": {
+            "REFPROP(grand-prix)": "back-n-time"
+        }
+    },
+    {
+        "slug": "bonus-cup",
+        "name": {
+            "en": "Bonus Cup",
+            "fr": "Coupe Bonus"
+        },
+        "mode": {
+            "REFPROP(modes)": "cup-race"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "spyro-circuit",
+                "nina-s-nightmare",
+                "koala-carnival",
+                "gingerbread-joyride"
+            ]
+        },
+        "added-by": {
+            "REFPROP(grand-prix)": "winter-festival"
+        }
+    }
+]
