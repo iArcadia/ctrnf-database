@@ -193,6 +193,9 @@
         },
         "parent-mode": {
             "REFPROP(modes)": "local-arcade"
+        },
+        "added-by": {
+            "REFPROP(grand-prix)": "neon-circus"
         }
     },
     {

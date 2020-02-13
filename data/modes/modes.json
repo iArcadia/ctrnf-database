@@ -213,6 +213,10 @@
         "parent-mode": {
             "__file": "\\data\\modes\\modes.json",
             "__slug": "local-arcade"
+        },
+        "added-by": {
+            "__file": "\\data\\grand-prix\\grand-prix.json",
+            "__slug": "neon-circus"
         }
     },
     {

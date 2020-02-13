@@ -102,6 +102,9 @@
                 "king-chicken"
             ]
         },
+        "new-mode": {
+            "REFPROP(modes)": "ring-rally"
+        },
         "duration": {
             "start-date": "2019-11-08",
             "end-date": "2019-12-08"
