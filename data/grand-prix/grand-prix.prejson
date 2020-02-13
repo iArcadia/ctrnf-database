@@ -9,7 +9,6 @@
             "REFPROP(tracks)": "twilight-tour"
         },
         "new-characters": {
-            "__file": "\\data\\characters\\characters.json",
             "REFPROP(characters)": [
                 "tawna",
                 "ami",
