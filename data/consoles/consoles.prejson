@@ -1,0 +1,28 @@
+[
+    {
+        "slug": "playstation-4",
+        "name": {
+            "en": "Playstation 4",
+            "fr": "Playstation 4"
+        },
+        "exclusive-tracks": {
+            "REFPROP(tracks)": [
+                "retro-stadium"
+            ]
+        }
+    },
+    {
+        "slug": "xbox-one",
+        "name": {
+            "en": "Xbox One",
+            "fr": "Xbox One"
+        }
+    },
+    {
+        "slug": "nintendo-switch",
+        "name": {
+            "en": "Nintendo Switch",
+            "fr": "Nintendo Switch"
+        }
+    }
+]

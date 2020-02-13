@@ -182,133 +182,133 @@
         }
     },
     {
-        "slug": "aku-aku-invicibility-mask",
+        "slug": "aku-aku-invincibility-mask",
         "name": {
-            "en": "Invicibility Mask (Aku-Aku)",
+            "en": "Invincibility Mask (Aku-Aku)",
             "fr": "Masque d'invincibilité (Aku-Aku)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\aku-aku-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\aku-aku-invincibility-mask.png)"
         },
         "juiced-up-version": {
-            "REFPROP(items)": "juiced-up-aku-aku-invicibility-mask"
+            "REFPROP(items)": "juiced-up-aku-aku-invincibility-mask"
         }
     },
     {
-        "slug": "juiced-up-aku-aku-invicibility-mask",
+        "slug": "juiced-up-aku-aku-invincibility-mask",
         "name": {
-            "en": "Juiced-Up Invicibility Mask (Aku-Aku)",
+            "en": "Juiced-Up Invincibility Mask (Aku-Aku)",
             "fr": "Masque d'invincibilité Chargé (Aku-Aku)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\juiced-up-aku-aku-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-aku-aku-invincibility-mask.png)"
         },
         "normal-version": {
-            "REFPROP(items)": "aku-aku-invicibility-mask"
+            "REFPROP(items)": "aku-aku-invincibility-mask"
         }
     },
     {
-        "slug": "uka-uka-invicibility-mask",
+        "slug": "uka-uka-invincibility-mask",
         "name": {
-            "en": "Invicibility Mask (Uka-Uka)",
+            "en": "Invincibility Mask (Uka-Uka)",
             "fr": "Masque d'invincibilité (Uka-Uka)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\uka-uka-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\uka-uka-invincibility-mask.png)"
         },
         "juiced-up-version": {
-            "REFPROP(items)": "juiced-up-uka-uka-invicibility-mask"
+            "REFPROP(items)": "juiced-up-uka-uka-invincibility-mask"
         }
     },
     {
-        "slug": "juiced-up-uka-uka-invicibility-mask",
+        "slug": "juiced-up-uka-uka-invincibility-mask",
         "name": {
-            "en": "Juiced-Up Invicibility Mask (Uka-Uka)",
+            "en": "Juiced-Up Invincibility Mask (Uka-Uka)",
             "fr": "Masque d'invincibilité Chargé (Uka-Uka)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\juiced-up-uka-uka-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-uka-uka-invincibility-mask.png)"
         },
         "normal-version": {
-            "REFPROP(items)": "uka-uka-invicibility-mask"
+            "REFPROP(items)": "uka-uka-invincibility-mask"
         }
     },
     {
-        "slug": "velo-invicibility-mask",
+        "slug": "velo-invincibility-mask",
         "name": {
-            "en": "Invicibility Mask (Velo)",
+            "en": "Invincibility Mask (Velo)",
             "fr": "Masque d'invincibilité (Velo)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\velo-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\velo-invincibility-mask.png)"
         },
         "juiced-up-version": {
-            "REFPROP(items)": "juiced-up-velo-invicibility-mask"
+            "REFPROP(items)": "juiced-up-velo-invincibility-mask"
         }
     },
     {
-        "slug": "juiced-up-velo-invicibility-mask",
+        "slug": "juiced-up-velo-invincibility-mask",
         "name": {
-            "en": "Juiced-Up Invicibility Mask (Velo)",
+            "en": "Juiced-Up Invincibility Mask (Velo)",
             "fr": "Masque d'invincibilité Chargé (Velo)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\juiced-up-velo-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-velo-invincibility-mask.png)"
         },
         "normal-version": {
-            "REFPROP(items)": "velo-invicibility-mask"
+            "REFPROP(items)": "velo-invincibility-mask"
         }
     },
     {
-        "slug": "sparx-invicibility-mask",
+        "slug": "sparx-invincibility-mask",
         "name": {
-            "en": "Invicibility Mask (Sparx)",
+            "en": "Invincibility Mask (Sparx)",
             "fr": "Masque d'invincibilité (Sparx)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\sparx-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\sparx-invincibility-mask.png)"
         },
         "juiced-up-version": {
-            "REFPROP(items)": "juiced-up-sparx-invicibility-mask"
+            "REFPROP(items)": "juiced-up-sparx-invincibility-mask"
         }
     },
     {
-        "slug": "juiced-up-sparx-invicibility-mask",
+        "slug": "juiced-up-sparx-invincibility-mask",
         "name": {
-            "en": "Juiced-Up Invicibility Mask (Sparx)",
+            "en": "Juiced-Up Invincibility Mask (Sparx)",
             "fr": "Masque d'invincibilité Chargé (Sparx)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\juiced-up-sparx-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-sparx-invincibility-mask.png)"
         },
         "normal-version": {
-            "REFPROP(items)": "sparx-invicibility-mask"
+            "REFPROP(items)": "sparx-invincibility-mask"
         }
     },
     {
-        "slug": "apo-apo-invicibility-mask",
+        "slug": "apo-apo-invincibility-mask",
         "name": {
-            "en": "Invicibility Mask (Apo-Apo)",
+            "en": "Invincibility Mask (Apo-Apo)",
             "fr": "Masque d'invincibilité (Apo-Apo)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\apo-apo-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\apo-apo-invincibility-mask.png)"
         },
         "juiced-up-version": {
-            "REFPROP(items)": "juiced-up-apo-apo-invicibility-mask"
+            "REFPROP(items)": "juiced-up-apo-apo-invincibility-mask"
         }
     },
     {
-        "slug": "juiced-up-apo-apo-invicibility-mask",
+        "slug": "juiced-up-apo-apo-invincibility-mask",
         "name": {
-            "en": "Juiced-Up Invicibility Mask (Apo-Apo)",
+            "en": "Juiced-Up Invincibility Mask (Apo-Apo)",
             "fr": "Masque d'invincibilité Chargé (Apo-Apo)"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\juiced-up-apo-apo-invicibility-mask.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-apo-apo-invincibility-mask.png)"
         },
         "normal-version": {
-            "REFPROP(items)": "apo-apo-invicibility-mask"
+            "REFPROP(items)": "apo-apo-invincibility-mask"
         }
     },
     {

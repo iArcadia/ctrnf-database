@@ -1,0 +1,37 @@
+[
+    {
+        "slug": "quick-challenges",
+        "name": {
+            "en": "Quick Challenges",
+            "fr": "Défis Rapides"
+        }
+    },
+    {
+        "slug": "daily-challenges",
+        "name": {
+            "en": "Daily Challenges",
+            "fr": "Défis Quotidiens"
+        }
+    },
+    {
+        "slug": "weekly-challenges",
+        "name": {
+            "en": "Weekly Challenges",
+            "fr": "Défis Hebdomadaires"
+        }
+    },
+    {
+        "slug": "themed-challenges",
+        "name": {
+            "en": "Themed Challenges",
+            "fr": "Défis à Thème"
+        }
+    },
+    {
+        "slug": "pro-challenges",
+        "name": {
+            "en": "Pro Challenges",
+            "fr": "Défis Pro"
+        }
+    }
+]

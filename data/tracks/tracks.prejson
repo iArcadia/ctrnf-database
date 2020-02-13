@@ -58,6 +58,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/2/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "n-sanity-beach"
         }
@@ -120,6 +123,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/4/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/4/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "n-sanity-beach"
@@ -184,6 +190,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/6/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "n-sanity-beach"
         }
@@ -246,6 +255,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/8/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/8/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "n-sanity-beach"
@@ -310,6 +322,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/14/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "the-lost-ruins"
         }
@@ -372,6 +387,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/16/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/16/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "the-lost-ruins"
@@ -436,6 +454,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/18/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "the-lost-ruins"
         }
@@ -498,6 +519,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/20/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/20/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "the-lost-ruins"
@@ -562,6 +586,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/22/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "glacier-park"
         }
@@ -624,6 +651,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/24/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/24/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "glacier-park"
@@ -688,6 +718,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/26/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "glacier-park"
         }
@@ -750,6 +783,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/28/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/28/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "glacier-park"
@@ -814,6 +850,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/32/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "citadel-city"
         }
@@ -876,6 +915,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/30/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/30/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "citadel-city"
@@ -940,6 +982,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/34/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "citadel-city"
         }
@@ -1002,6 +1047,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/36/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/36/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "citadel-city"
@@ -1066,6 +1114,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/10/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "gem-stone-valley"
         }
@@ -1128,6 +1179,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/12/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/12/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "gem-stone-valley"
@@ -1192,6 +1246,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/40/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -1254,6 +1311,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/42/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/42/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
@@ -1318,6 +1378,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/54/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -1380,6 +1443,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/84/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/84/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
@@ -1444,6 +1510,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/62/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -1506,6 +1575,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/50/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/50/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
@@ -1570,6 +1642,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/56/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -1632,6 +1707,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/44/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/44/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
@@ -1696,6 +1774,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/46/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -1758,6 +1839,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/48/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/48/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
@@ -1822,6 +1906,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/52/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -1884,6 +1971,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/58/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/58/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
@@ -1948,6 +2038,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/64/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "crash-nitro-kart"
         }
@@ -2007,8 +2100,14 @@
                 "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/38/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
+        },
+        "console-exlusive": {
+            "REFPROP(consoles)": "playstation-4"
         }
     },
     {
@@ -2069,6 +2168,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/78/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/78/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
@@ -2133,6 +2235,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/80/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
         }
@@ -2195,6 +2300,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/82/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/82/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
@@ -2259,6 +2367,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/60/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
         }
@@ -2321,6 +2432,9 @@
                 "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/86/page/1",
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/86/page/1"
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
@@ -2385,6 +2499,9 @@
                 "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/88/page/1"
             }
         },
+        "ring-rally": {
+            "rings": 0
+        },
         "area": {
             "REFPROP(areas)": "bonus-tracks"
         }
@@ -2447,6 +2564,9 @@
                 "xbox-one": null,
                 "nintendo-switch": null
             }
+        },
+        "ring-rally": {
+            "rings": 0
         },
         "area": {
             "REFPROP(areas)": "bonus-tracks"

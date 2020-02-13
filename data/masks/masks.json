@@ -27,6 +27,13 @@
                 "rilla-roo",
                 "megamix"
             ]
+        },
+        "items": {
+            "__file": "\\data\\items\\items.json",
+            "__slugs": [
+                "uka-uka-invincibility-mask",
+                "juiced-up-uka-uka-invincibility-mask"
+            ]
         }
     },
     {
@@ -60,6 +67,13 @@
                 "chick",
                 "stew"
             ]
+        },
+        "items": {
+            "__file": "\\data\\items\\items.json",
+            "__slugs": [
+                "aku-aku-invincibility-mask",
+                "juiced-up-aku-aku-invincibility-mask"
+            ]
         }
     },
     {
@@ -82,6 +96,13 @@
                 "zam",
                 "zem"
             ]
+        },
+        "items": {
+            "__file": "\\data\\items\\items.json",
+            "__slugs": [
+                "velo-invincibility-mask",
+                "juiced-up-velo-invincibility-mask"
+            ]
         }
     },
     {
@@ -103,6 +124,13 @@
             "__slugs": [
                 "spyro-circuit"
             ]
+        },
+        "items": {
+            "__file": "\\data\\items\\items.json",
+            "__slugs": [
+                "sparx-invincibility-mask",
+                "juiced-up-sparx-invincibility-mask"
+            ]
         }
     },
     {
@@ -115,6 +143,13 @@
             "__file": "\\data\\tracks\\tracks.json",
             "__slugs": [
                 "megamix-mania"
+            ]
+        },
+        "items": {
+            "__file": "\\data\\items\\items.json",
+            "__slugs": [
+                "apo-apo-invincibility-mask",
+                "juiced-up-apo-apo-invincibility-mask"
             ]
         }
     }
