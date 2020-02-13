@@ -6,10 +6,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\tracking-missile.png"
-            }
+            "icon": "ASSETOBJECT(items\\tracking-missile.png)"
         }
     },
     {
@@ -19,10 +16,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\bowling-bomb.png"
-            }
+            "icon": "ASSETOBJECT(items\\bowling-bomb.png)"
         }
     },
     {
@@ -32,10 +26,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\power-shield.png"
-            }
+            "icon": "ASSETOBJECT(items\\power-shield.png)"
         }
     },
     {
@@ -45,10 +36,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\explosive-crate.png"
-            }
+            "icon": "ASSETOBJECT(items\\explosive-crate.png)"
         }
     },
     {
@@ -58,10 +46,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\n-brio-s-beaker.png"
-            }
+            "icon": "ASSETOBJECT(items\\n-brio-s-beaker.png)"
         }
     },
     {
@@ -71,10 +56,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\mask.png"
-            }
+            "icon": "ASSETOBJECT(items\\mask.png)"
         }
     },
     {
@@ -84,10 +66,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\turbo.png"
-            }
+            "icon": "ASSETOBJECT(items\\turbo.png)"
         }
     },
     {
@@ -97,10 +76,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\n-tropy-clock.png"
-            }
+            "icon": "ASSETOBJECT(items\\n-tropy-clock.png)"
         }
     },
     {
@@ -110,10 +86,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\warp-orb.png"
-            }
+            "icon": "ASSETOBJECT(items\\warp-orb.png)"
         }
     },
     {
@@ -123,10 +96,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\invisibility.png"
-            }
+            "icon": "ASSETOBJECT(items\\invisibility.png)"
         }
     },
     {
@@ -136,10 +106,7 @@
             "fr": ""
         },
         "assets": {
-            "icon": {
-                "__type": "image\/png",
-                "__file": "\\assets\\img\\items\\super-engine.png"
-            }
+            "icon": "ASSETOBJECT(items\\super-engine.png)"
         }
     }
 ]

@@ -62,7 +62,7 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
     },
     "relationships": {
         "tracks": {
-            "file": "\\data\\tracks\\tracks.json",
+            "__file": "\\data\\tracks\\tracks.json",
             "slugs": [
                 "crash-cove",
                 "roo-s-tubes"
@@ -81,7 +81,7 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
     },
     "relationships": {
         "area": {
-            "file": "\\data\\areas\\areas.json",
+            "__file": "\\data\\areas\\areas.json",
             "slug": "n-sanity-beach"
         }
     }
@@ -97,7 +97,7 @@ Taking the previous example of *Crash Cove* and adding *Roo's Tubes*, which are 
     },
     "relationships": {
         "area": {
-            "file": "\\data\\areas\\areas.json",
+            "__file": "\\data\\areas\\areas.json",
             "slug": "n-sanity-beach"
         }
     }
@@ -117,7 +117,7 @@ For example, a skin could be purchasable in the Pit Shop with an amount of 1500 
     },
     "relationships": {
         "way-to-unlock": {
-            "file": "\\data\\way-to-unlock\\way-to-unlock.json",
+            "__file": "\\data\\way-to-unlock\\way-to-unlock.json",
             "slug": "buy-from-the-pit-shop",
             "price":  1500
         }
@@ -136,7 +136,7 @@ Wait, in reality, this skin is also unlockable from the Nitro bar of the Back'n'
     },
     "relationships": {
         "way-to-unlock": {
-            "file": "\\data\\way-to-unlock\\way-to-unlock.json",
+            "__file": "\\data\\way-to-unlock\\way-to-unlock.json",
             "slugs": [
                 {
                     "slug": "buy-from-the-pit-shop",
@@ -147,7 +147,7 @@ Wait, in reality, this skin is also unlockable from the Nitro bar of the Back'n'
                     "points": 1500,
                     "relationships": {
                         "grand-prix": {
-                            "file": "\\data\\grand-prix\\grand-prix.json",
+                            "__file": "\\data\\grand-prix\\grand-prix.json",
                             "slug": "back-n-time"
                         }
                     }

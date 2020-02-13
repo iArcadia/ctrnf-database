@@ -1,0 +1,2455 @@
+[
+    {
+        "slug": "crash-cove",
+        "name": {
+            "en": "Crash Cove",
+            "fr": "Crique Crash"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 2,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 32,
+            "2nd": 29,
+            "3rd": 27,
+            "default": 24
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:34:86)",
+            "nitros-oxide-time": "TIMEOBJECT(1:27:52)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/1/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/1/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/1/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 32,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:23:00)",
+                "gold-time": "TIMEOBJECT(1:10:00)",
+                "platinum-time": "TIMEOBJECT(0:56:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:17:00)",
+                "gold-time": "TIMEOBJECT(1:05:00)",
+                "platinum-time": "TIMEOBJECT(0:52:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/2/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/2/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/2/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "n-sanity-beach"
+        }
+    },
+    {
+        "slug": "roo-s-tubes",
+        "name": {
+            "en": "Roo's Tubes",
+            "fr": "Tubes Roo"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 4,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 33,
+            "2nd": 30,
+            "3rd": 28,
+            "default": 25
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:34:19)",
+            "nitros-oxide-time": "TIMEOBJECT(1:23:65)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/3/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/3/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/3/mode/1/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:20:00)",
+                "gold-time": "TIMEOBJECT(1:10:00)",
+                "platinum-time": "TIMEOBJECT(1:05:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:15:00)",
+                "gold-time": "TIMEOBJECT(1:05:00)",
+                "platinum-time": "TIMEOBJECT(0:55:00)"
+            },
+            "time-crates": 32,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/4/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/4/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/4/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "n-sanity-beach"
+        }
+    },
+    {
+        "slug": "mystery-caves",
+        "name": {
+            "en": "Mystery Caves",
+            "fr": "Grotte Myst\u00e8re"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 7,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 46,
+            "2nd": 41,
+            "3rd": 39,
+            "default": 35
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:24:45)",
+            "nitros-oxide-time": "TIMEOBJECT(2:14:00)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/3/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/3/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/3/mode/1/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:00:00)",
+                "gold-time": "TIMEOBJECT(1:49:00)",
+                "platinum-time": "TIMEOBJECT(1:38:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:55:00)",
+                "gold-time": "TIMEOBJECT(1:44:00)",
+                "platinum-time": "TIMEOBJECT(1:32:00)"
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/6/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/6/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/6/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "n-sanity-beach"
+        }
+    },
+    {
+        "slug": "sewer-speedway",
+        "name": {
+            "en": "Sewer Speedway",
+            "fr": "Circuit Ego\u00fbts"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 43,
+            "2nd": 39,
+            "3rd": 37,
+            "default": 32
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:13:70)",
+            "nitros-oxide-time": "TIMEOBJECT(1:56:18)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/7/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/7/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/7/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:38:00)",
+                "gold-time": "TIMEOBJECT(1:10:00)",
+                "platinum-time": "TIMEOBJECT(0:43:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:33:00)",
+                "gold-time": "TIMEOBJECT(1:05:00)",
+                "platinum-time": "TIMEOBJECT(0:37:00)"
+            },
+            "time-crates": 65,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/8/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/8/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/8/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "n-sanity-beach"
+        }
+    },
+    {
+        "slug": "coco-park",
+        "name": {
+            "en": "Coco Park",
+            "fr": "Parc Coco"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 32,
+            "2nd": 29,
+            "3rd": 27,
+            "default": 24
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:37:53)",
+            "nitros-oxide-time": "TIMEOBJECT(1:29:35)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/13/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/13/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/13/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:40:00)",
+                "gold-time": "TIMEOBJECT(1:18:00)",
+                "platinum-time": "TIMEOBJECT(0:55:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:35:00)",
+                "gold-time": "TIMEOBJECT(1:12:00)",
+                "platinum-time": "TIMEOBJECT(0:49:00)"
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/14/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/14/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/14/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "the-lost-ruins"
+        }
+    },
+    {
+        "slug": "tiger-temple",
+        "name": {
+            "en": "Tiger Temple",
+            "fr": "Temple Tigre"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 41,
+            "2nd": 37,
+            "3rd": 35,
+            "default": 31
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:02:75)",
+            "nitros-oxide-time": "TIMEOBJECT(1:55:91)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/15/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/15/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/15/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:30:00)",
+                "gold-time": "TIMEOBJECT(1:08:00)",
+                "platinum-time": "TIMEOBJECT(0:53:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:20:00)",
+                "gold-time": "TIMEOBJECT(1:02:00)",
+                "platinum-time": "TIMEOBJECT(0:43:00)"
+            },
+            "time-crates": 52,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/16/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/16/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/16/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "the-lost-ruins"
+        }
+    },
+    {
+        "slug": "papu-s-pyramid",
+        "name": {
+            "en": "Papu's Pyramid",
+            "fr": "Pyramide Papu"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 40,
+            "2nd": 36,
+            "3rd": 34,
+            "default": 30
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:59:88)",
+            "nitros-oxide-time": "TIMEOBJECT(1:46:24)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/17/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/17/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/17/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:40:00)",
+                "gold-time": "TIMEOBJECT(1:13:00)",
+                "platinum-time": "TIMEOBJECT(0:48:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:34:00)",
+                "gold-time": "TIMEOBJECT(1:09:00)",
+                "platinum-time": "TIMEOBJECT(0:42:00)"
+            },
+            "time-crates": 48,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/18/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/18/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/18/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "the-lost-ruins"
+        }
+    },
+    {
+        "slug": "dingo-canyon",
+        "name": {
+            "en": "Dingo Canyon",
+            "fr": "Canyon Dingo"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 35,
+            "2nd": 32,
+            "3rd": 30,
+            "default": 26
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:48:54)",
+            "nitros-oxide-time": "TIMEOBJECT(1:45:47)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/19/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/19/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/19/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:35:00)",
+                "gold-time": "TIMEOBJECT(1:14:00)",
+                "platinum-time": "TIMEOBJECT(0:58:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:25:00)",
+                "gold-time": "TIMEOBJECT(1:09:00)",
+                "platinum-time": "TIMEOBJECT(0:53:00)"
+            },
+            "time-crates": 38,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/20/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/20/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/20/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "the-lost-ruins"
+        }
+    },
+    {
+        "slug": "blizzard-bluff",
+        "name": {
+            "en": "Blizzard Bluff",
+            "fr": "Falaises Gla\u00e7\u00e9es"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 33,
+            "2nd": 30,
+            "3rd": 28,
+            "default": 25
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:37:23)",
+            "nitros-oxide-time": "TIMEOBJECT(1:28:19)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/21/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/21/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/21/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:35:00)",
+                "gold-time": "TIMEOBJECT(1:13:00)",
+                "platinum-time": "TIMEOBJECT(0:50:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:30:00)",
+                "gold-time": "TIMEOBJECT(1:08:00)",
+                "platinum-time": "TIMEOBJECT(0:45:00)"
+            },
+            "time-crates": 40,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/22/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/22/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/22/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "glacier-park"
+        }
+    },
+    {
+        "slug": "dragon-mines",
+        "name": {
+            "en": "Dragon Mines",
+            "fr": "Mine Dragon"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 35,
+            "2nd": 32,
+            "3rd": 30,
+            "default": 26
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:45:54)",
+            "nitros-oxide-time": "TIMEOBJECT(1:34:62)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/23/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/23/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/23/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:34:00)",
+                "gold-time": "TIMEOBJECT(1:16:00)",
+                "platinum-time": "TIMEOBJECT(1:00:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:28:00)",
+                "gold-time": "TIMEOBJECT(1:11:00)",
+                "platinum-time": "TIMEOBJECT(0:54:00)"
+            },
+            "time-crates": 39,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/24/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/24/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/24/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "glacier-park"
+        }
+    },
+    {
+        "slug": "polar-pass",
+        "name": {
+            "en": "Polar Pass",
+            "fr": "Col Polar"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 59,
+            "2nd": 53,
+            "3rd": 50,
+            "default": 44
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:00:58)",
+            "nitros-oxide-time": "TIMEOBJECT(2:46:97)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/25/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/25/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/25/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:05:00)",
+                "gold-time": "TIMEOBJECT(2:38:00)",
+                "platinum-time": "TIMEOBJECT(2:10:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(3:00:00)",
+                "gold-time": "TIMEOBJECT(2:33:00)",
+                "platinum-time": "TIMEOBJECT(2:05:00)"
+            },
+            "time-crates": 38,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/26/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/26/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/26/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "glacier-park"
+        }
+    },
+    {
+        "slug": "tiny-arena",
+        "name": {
+            "en": "Tiny Arena",
+            "fr": "Ar\u00e8ne Tiny"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 73,
+            "2nd": 66,
+            "3rd": 62,
+            "default": 55
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:51:43)",
+            "nitros-oxide-time": "TIMEOBJECT(3:43:22)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/27/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/27/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/27/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:50:00)",
+                "gold-time": "TIMEOBJECT(3:28:00)",
+                "platinum-time": "TIMEOBJECT(3:03:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(3:45:00)",
+                "gold-time": "TIMEOBJECT(3:22:00)",
+                "platinum-time": "TIMEOBJECT(2:58:00)"
+            },
+            "time-crates": 60,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/28/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/28/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/28/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "glacier-park"
+        }
+    },
+    {
+        "slug": "cortex-castle",
+        "name": {
+            "en": "Cortex Castle",
+            "fr": "Ch\u00e2teau Cortex"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 50,
+            "2nd": 45,
+            "3rd": 43,
+            "default": 38
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:40:39)",
+            "nitros-oxide-time": "TIMEOBJECT(2:36:09)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/31/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/31/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/31/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:40:00)",
+                "gold-time": "TIMEOBJECT(2:09:00)",
+                "platinum-time": "TIMEOBJECT(1:37:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:35:00)",
+                "gold-time": "TIMEOBJECT(2:04:00)",
+                "platinum-time": "TIMEOBJECT(1:32:00)"
+            },
+            "time-crates": 62,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/32/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/32/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/32/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "citadel-city"
+        }
+    },
+    {
+        "slug": "n-gin-labs",
+        "name": {
+            "en": "N. Gin Labs",
+            "fr": "Labo N. Gin"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 56,
+            "2nd": 50,
+            "3rd": 48,
+            "default": 42
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:51:54)",
+            "nitros-oxide-time": "TIMEOBJECT(2:39:65)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/29/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/29/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/29/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:20:00)",
+                "gold-time": "TIMEOBJECT(1:44:00)",
+                "platinum-time": "TIMEOBJECT(0:58:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:15:00)",
+                "gold-time": "TIMEOBJECT(1:39:00)",
+                "platinum-time": "TIMEOBJECT(0:53:00)"
+            },
+            "time-crates": 70,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/30/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/30/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/30/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "citadel-city"
+        }
+    },
+    {
+        "slug": "hot-air-skyway",
+        "name": {
+            "en": "Hot Air Skyway",
+            "fr": "Piste Air"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 65,
+            "2nd": 59,
+            "3rd": 55,
+            "default": 49
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:21:43)",
+            "nitros-oxide-time": "TIMEOBJECT(3:09:89)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/33/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/33/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/33/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:10:00)",
+                "gold-time": "TIMEOBJECT(2:39:00)",
+                "platinum-time": "TIMEOBJECT(2:07:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(3:05:00)",
+                "gold-time": "TIMEOBJECT(2:34:00)",
+                "platinum-time": "TIMEOBJECT(2:02:00)"
+            },
+            "time-crates": 56,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/34/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/34/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/34/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "citadel-city"
+        }
+    },
+    {
+        "slug": "oxide-station",
+        "name": {
+            "en": "Oxide Station",
+            "fr": "Station Oxide"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 64,
+            "2nd": 58,
+            "3rd": 54,
+            "default": 48
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:30:14)",
+            "nitros-oxide-time": "TIMEOBJECT(3:27:67)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/35/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/35/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/35/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:22:00)",
+                "gold-time": "TIMEOBJECT(3:00:00)",
+                "platinum-time": "TIMEOBJECT(2:39:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(3:17:00)",
+                "gold-time": "TIMEOBJECT(2:56:00)",
+                "platinum-time": "TIMEOBJECT(2:34:00)"
+            },
+            "time-crates": 49,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/36/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/36/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/36/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "citadel-city"
+        }
+    },
+    {
+        "slug": "slide-coliseum",
+        "name": {
+            "en": "Slide Coliseum",
+            "fr": "Stade Glissade"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 43,
+            "2nd": 39,
+            "3rd": 37,
+            "default": 32
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:08:49)",
+            "nitros-oxide-time": "TIMEOBJECT(2:00:88)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/9/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/9/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/9/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:00:00)",
+                "gold-time": "TIMEOBJECT(1:50:00)",
+                "platinum-time": "TIMEOBJECT(1:45:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:55:00)",
+                "gold-time": "TIMEOBJECT(1:45:00)",
+                "platinum-time": "TIMEOBJECT(1:40:00)"
+            },
+            "time-crates": 45,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/10/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/10/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/10/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "gem-stone-valley"
+        }
+    },
+    {
+        "slug": "turbo-track",
+        "name": {
+            "en": "Turbo Track",
+            "fr": "Circuit Turbo"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 45,
+            "2nd": 41,
+            "3rd": 38,
+            "default": 34
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:18:54)",
+            "nitros-oxide-time": "TIMEOBJECT(2:06:35)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/11/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/11/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/11/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:50:00)",
+                "gold-time": "TIMEOBJECT(1:37:00)",
+                "platinum-time": "TIMEOBJECT(1:24:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:45:00)",
+                "gold-time": "TIMEOBJECT(1:32:00)",
+                "platinum-time": "TIMEOBJECT(1:19:00)"
+            },
+            "time-crates": 52,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/12/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/12/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/12/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "gem-stone-valley"
+        }
+    },
+    {
+        "slug": "inferno-island",
+        "name": {
+            "en": "Inferno Island",
+            "fr": "Ile Infernale"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 36,
+            "2nd": 32,
+            "3rd": 31,
+            "default": 27
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:54:41)",
+            "nitros-oxide-time": "TIMEOBJECT(1:46:47)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/39/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/39/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/39/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:58:00)",
+                "gold-time": "TIMEOBJECT(1:53:00)",
+                "platinum-time": "TIMEOBJECT(1:48:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:53:00)",
+                "gold-time": "TIMEOBJECT(1:33:00)",
+                "platinum-time": "TIMEOBJECT(1:28:00)"
+            },
+            "time-crates": 36,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/40/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/40/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/40/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "jungle-boogie",
+        "name": {
+            "en": "Jungle Boogie",
+            "fr": "Jungle en Folie"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 30,
+            "2nd": 27,
+            "3rd": 26,
+            "default": 23
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:33:89)",
+            "nitros-oxide-time": "TIMEOBJECT(1:27:38)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/41/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/41/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/41/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:00:00)",
+                "gold-time": "TIMEOBJECT(1:30:00)",
+                "platinum-time": "TIMEOBJECT(1:10:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:35:00)",
+                "gold-time": "TIMEOBJECT(1:18:00)",
+                "platinum-time": "TIMEOBJECT(0:55:00)"
+            },
+            "time-crates": 39,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/42/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/42/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/42/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "clockwork-wumpa",
+        "name": {
+            "en": "Clockwork Wumpa",
+            "fr": "Horloge Wumpa"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 53,
+            "2nd": 48,
+            "3rd": 45,
+            "default": 40
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:40:09)",
+            "nitros-oxide-time": "TIMEOBJECT(2:23:97)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/53/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/53/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/53/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:40:00)",
+                "gold-time": "TIMEOBJECT(2:25:00)",
+                "platinum-time": "TIMEOBJECT(2:10:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:30:00)",
+                "gold-time": "TIMEOBJECT(2:15:00)",
+                "platinum-time": "TIMEOBJECT(2:00:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/54/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/54/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/54/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "android-alley",
+        "name": {
+            "en": "Android Alley",
+            "fr": "Andro\u00efdes"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 68,
+            "2nd": 61,
+            "3rd": 58,
+            "default": 51
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:17:59)",
+            "nitros-oxide-time": "TIMEOBJECT(2:58:47)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/83/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/83/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/83/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:45:00)",
+                "gold-time": "TIMEOBJECT(2:33:00)",
+                "platinum-time": "TIMEOBJECT(2:25:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:35:00)",
+                "gold-time": "TIMEOBJECT(2:23:00)",
+                "platinum-time": "TIMEOBJECT(2:10:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/84/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/84/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/84/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "electron-avenue",
+        "name": {
+            "en": "Electron Avenue",
+            "fr": "Electrons"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 80,
+            "2nd": 72,
+            "3rd": 68,
+            "default": 60
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(4:13:52)",
+            "nitros-oxide-time": "TIMEOBJECT(3:52:23)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/61/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/61/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/61/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(4:25:00)",
+                "gold-time": "TIMEOBJECT(4:15:00)",
+                "platinum-time": "TIMEOBJECT(3:55:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(4:15:00)",
+                "gold-time": "TIMEOBJECT(4:05:00)",
+                "platinum-time": "TIMEOBJECT(3:45:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/62/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/62/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/62/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "deep-sea-driving",
+        "name": {
+            "en": "Deep Sea Driving",
+            "fr": "Eaux Profondes"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 48,
+            "2nd": 42,
+            "3rd": 41,
+            "default": 36
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:22:90)",
+            "nitros-oxide-time": "TIMEOBJECT(2:05:96)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/49/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/49/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/49/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:25:00)",
+                "gold-time": "TIMEOBJECT(2:10:00)",
+                "platinum-time": "TIMEOBJECT(2:00:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:10:00)",
+                "gold-time": "TIMEOBJECT(1:55:00)",
+                "platinum-time": "TIMEOBJECT(1:40:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/50/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/50/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/50/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "thunder-struck",
+        "name": {
+            "en": "Thunder Struck",
+            "fr": "Foudre"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 56,
+            "2nd": 50,
+            "3rd": 48,
+            "default": 42
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:04:18)",
+            "nitros-oxide-time": "TIMEOBJECT(2:58:68)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/55/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/55/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/55/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:15:00)",
+                "gold-time": "TIMEOBJECT(2:50:00)",
+                "platinum-time": "TIMEOBJECT(2:30:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(3:05:00)",
+                "gold-time": "TIMEOBJECT(2:43:00)",
+                "platinum-time": "TIMEOBJECT(2:20:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/56/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/56/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/56/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "tiny-temple",
+        "name": {
+            "en": "Tiny Temple",
+            "fr": "Temple Tiny"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 46,
+            "2nd": 41,
+            "3rd": 39,
+            "default": 35
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:06:89)",
+            "nitros-oxide-time": "TIMEOBJECT(1:47:71)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/43/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/43/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/43/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:20:00)",
+                "gold-time": "TIMEOBJECT(2:15:00)",
+                "platinum-time": "TIMEOBJECT(2:00:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:15:00)",
+                "gold-time": "TIMEOBJECT(2:10:00)",
+                "platinum-time": "TIMEOBJECT(1:50:00)"
+            },
+            "time-crates": 46,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/44/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/44/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/44/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "meteor-gorge",
+        "name": {
+            "en": "Meteor Gorge",
+            "fr": "Gorges du M\u00e9t\u00e9ore"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 34,
+            "2nd": 31,
+            "3rd": 29,
+            "default": 26
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(1:45:56)",
+            "nitros-oxide-time": "TIMEOBJECT(1:39:00)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/45/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/45/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/45/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:55:00)",
+                "gold-time": "TIMEOBJECT(1:38:00)",
+                "platinum-time": "TIMEOBJECT(1:20:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:45:00)",
+                "gold-time": "TIMEOBJECT(1:28:00)",
+                "platinum-time": "TIMEOBJECT(1:10:00)"
+            },
+            "time-crates": 34,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/46/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/46/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/46/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "barin-ruins",
+        "name": {
+            "en": "Barin Ruins",
+            "fr": "Ruines de Barin"
+        },
+        "event-crates": 0,
+        "shortcuts": 1,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 41,
+            "2nd": 37,
+            "3rd": 35,
+            "default": 31
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:07:79)",
+            "nitros-oxide-time": "TIMEOBJECT(1:55:21)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/47/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/47/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/47/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:10:00)",
+                "gold-time": "TIMEOBJECT(1:55:00)",
+                "platinum-time": "TIMEOBJECT(1:50:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:00:00)",
+                "gold-time": "TIMEOBJECT(1:48:00)",
+                "platinum-time": "TIMEOBJECT(1:35:00)"
+            },
+            "time-crates": 45,
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/48/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/48/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/48/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "out-of-time",
+        "name": {
+            "en": "Out of Time",
+            "fr": "Hors-Temps"
+        },
+        "event-crates": 0,
+        "shortcuts": 3,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 60,
+            "2nd": 54,
+            "3rd": 51,
+            "default": 45
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:00:05)",
+            "nitros-oxide-time": "TIMEOBJECT(2:40:09)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/51/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/51/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/51/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:00:00)",
+                "gold-time": "TIMEOBJECT(2:40:00)",
+                "platinum-time": "TIMEOBJECT(2:23:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:53:00)",
+                "gold-time": "TIMEOBJECT(2:33:00)",
+                "platinum-time": "TIMEOBJECT(2:13:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/52/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/52/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/52/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "assembly-lane",
+        "name": {
+            "en": "Assembly Lane",
+            "fr": "Production"
+        },
+        "event-crates": 0,
+        "shortcuts": 3,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 62,
+            "2nd": 56,
+            "3rd": 53,
+            "default": 47
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:08:76)",
+            "nitros-oxide-time": "TIMEOBJECT(3:00:41)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/57/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/57/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/57/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(3:05:00)",
+                "gold-time": "TIMEOBJECT(2:58:00)",
+                "platinum-time": "TIMEOBJECT(2:50:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:52:00)",
+                "gold-time": "TIMEOBJECT(2:45:00)",
+                "platinum-time": "TIMEOBJECT(2:35:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/58/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/58/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/58/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "hyper-spaceway",
+        "name": {
+            "en": "Hyper Spaceway",
+            "fr": "Hyperespace"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 59,
+            "2nd": 53,
+            "3rd": 50,
+            "default": 44
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:00:91)",
+            "nitros-oxide-time": "TIMEOBJECT(2:40:79)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/63/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/63/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/63/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:30:00)",
+                "gold-time": "TIMEOBJECT(2:15:00)",
+                "platinum-time": "TIMEOBJECT(2:10:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:25:00)",
+                "gold-time": "TIMEOBJECT(2:03:00)",
+                "platinum-time": "TIMEOBJECT(2:00:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/64/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/64/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/64/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "crash-nitro-kart"
+        }
+    },
+    {
+        "slug": "retro-stadium",
+        "name": {
+            "en": "Retro Stadium",
+            "fr": "Circuit Retro"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 45,
+            "2nd": 41,
+            "3rd": 38,
+            "default": 34
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:18:54)",
+            "nitros-oxide-time": "TIMEOBJECT(2:06:35)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/37/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:45:00)",
+                "gold-time": "TIMEOBJECT(1:32:00)",
+                "platinum-time": "TIMEOBJECT(1:19:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:45:00)",
+                "gold-time": "TIMEOBJECT(1:32:00)",
+                "platinum-time": "TIMEOBJECT(1:19:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/38/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "twilight-tour",
+        "name": {
+            "en": "Twilight Tour",
+            "fr": "Circuit du Cr\u00e9puscule"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 5,
+            "blue-fire": 2
+        },
+        "wumpa-coin-payouts": {
+            "1st": 50,
+            "2nd": 45,
+            "3rd": 43,
+            "default": 38
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:59:99)",
+            "nitros-oxide-time": "TIMEOBJECT(2:37:99)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/77/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/77/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/77/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:20:00)",
+                "gold-time": "TIMEOBJECT(2:10:00)",
+                "platinum-time": "TIMEOBJECT(1:54:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:00:00)",
+                "gold-time": "TIMEOBJECT(1:50:00)",
+                "platinum-time": "TIMEOBJECT(1:34:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/78/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/78/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/78/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "prehistoric-playground",
+        "name": {
+            "en": "Prehistoric Playground",
+            "fr": "Parc Pr\u00e9historique"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 7,
+            "blue-fire": 2
+        },
+        "wumpa-coin-payouts": {
+            "1st": 59,
+            "2nd": 53,
+            "3rd": 50,
+            "default": 44
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(3:00:08)",
+            "nitros-oxide-time": "TIMEOBJECT(2:41:36)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/79/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/79/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/79/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:35:00)",
+                "gold-time": "TIMEOBJECT(2:15:00)",
+                "platinum-time": "TIMEOBJECT(1:50:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:25:00)",
+                "gold-time": "TIMEOBJECT(2:05:00)",
+                "platinum-time": "TIMEOBJECT(1:40:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/80/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/80/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/80/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "spyro-circuit",
+        "name": {
+            "en": "Spyro Circuit",
+            "fr": "Circuit Spyro"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 5,
+            "blue-fire": 0
+        },
+        "wumpa-coin-payouts": {
+            "1st": 48,
+            "2nd": 42,
+            "3rd": 41,
+            "default": 36
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:33:09)",
+            "nitros-oxide-time": "TIMEOBJECT(2:20:54)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/81/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/81/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/81/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:40:00)",
+                "gold-time": "TIMEOBJECT(1:30:00)",
+                "platinum-time": "TIMEOBJECT(1:23:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:30:00)",
+                "gold-time": "TIMEOBJECT(1:20:00)",
+                "platinum-time": "TIMEOBJECT(1:13:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/82/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/82/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/82/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "nina-s-nightmare",
+        "name": {
+            "en": "Nina's Nightmare",
+            "fr": "Cauchemar de Nina"
+        },
+        "event-crates": 1,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 5,
+            "blue-fire": 1
+        },
+        "wumpa-coin-payouts": {
+            "1st": 45,
+            "2nd": 41,
+            "3rd": 38,
+            "default": 34
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:17:00)",
+            "nitros-oxide-time": "TIMEOBJECT(1:58:31)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/59/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/59/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/59/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:19:16)",
+                "gold-time": "TIMEOBJECT(1:03:41)",
+                "platinum-time": "TIMEOBJECT(0:53:11)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:13:44)",
+                "gold-time": "TIMEOBJECT(0:57:04)",
+                "platinum-time": "TIMEOBJECT(0:45:47)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/60/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/60/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/60/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "koala-carnival",
+        "name": {
+            "en": "Koala Carnival",
+            "fr": "Cirque Koala"
+        },
+        "event-crates": 0,
+        "shortcuts": 0,
+        "turbo-pads": {
+            "sacred-fire": 0,
+            "blue-fire": 1
+        },
+        "wumpa-coin-payouts": {
+            "1st": 43,
+            "2nd": 39,
+            "3rd": 37,
+            "default": 32
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:08:80)",
+            "nitros-oxide-time": "TIMEOBJECT(1:49:78)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/85/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/85/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/85/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:14:00)",
+                "gold-time": "TIMEOBJECT(1:07:00)",
+                "platinum-time": "TIMEOBJECT(0:59:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:04:00)",
+                "gold-time": "TIMEOBJECT(0:57:00)",
+                "platinum-time": "TIMEOBJECT(0:49:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/86/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/86/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/86/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "gingerbread-joyride",
+        "name": {
+            "en": "Gingerbread Joyride",
+            "fr": "Chevauch\u00e9e de Pain d'Epice"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 4,
+            "blue-fire": 1
+        },
+        "wumpa-coin-payouts": {
+            "1st": 46,
+            "2nd": 41,
+            "3rd": 39,
+            "default": 35
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:28:48)",
+            "nitros-oxide-time": "TIMEOBJECT(2:03:89)",
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/87/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/87/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/87/page/1"
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 0,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(1:59:00)",
+                "gold-time": "TIMEOBJECT(1:39:00)",
+                "platinum-time": "TIMEOBJECT(1:14:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(1:49:00)",
+                "gold-time": "TIMEOBJECT(1:29:00)",
+                "platinum-time": "TIMEOBJECT(1:04:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/psn/time/alltime/type/1/mode/88/page/1",
+                "xbox-one": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/xbl/time/alltime/type/1/mode/88/page/1",
+                "nintendo-switch": "https://my.callofduty.com/api/papi-client/leaderboards/v2/title/ctr/platform/switch/time/alltime/type/1/mode/88/page/1"
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    },
+    {
+        "slug": "megamix-mania",
+        "name": {
+            "en": "Megamix Mania",
+            "fr": "Megamix Mania"
+        },
+        "event-crates": 0,
+        "shortcuts": 2,
+        "turbo-pads": {
+            "sacred-fire": 6,
+            "blue-fire": 1
+        },
+        "wumpa-coin-payouts": {
+            "1st": 48,
+            "2nd": 42,
+            "3rd": 41,
+            "default": 36
+        },
+        "race": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "ctr-challenge"
+            ],
+            "crates": {
+                "item": 0,
+                "wumpa": 0
+            },
+            "wumpas": 0
+        },
+        "time-trial": {
+            "REFPROP(modes)": "time-trial",
+            "n-tropy-time": "TIMEOBJECT(2:33:08)",
+            "nitros-oxide-time": "TIMEOBJECT(2:17:34)",
+            "game-leaderboard-api-url": {
+                "playstation-4": null,
+                "xbox-one": null,
+                "nintendo-switch": null
+            }
+        },
+        "relic-race": {
+            "REFPROP(modes)": "relic-race",
+            "time-crates": 46,
+            "easy-mode": {
+                "sapphire-time": "TIMEOBJECT(2:10:00)",
+                "gold-time": "TIMEOBJECT(1:45:00)",
+                "platinum-time": "TIMEOBJECT(1:37:00)"
+            },
+            "normal-mode": {
+                "sapphire-time": "TIMEOBJECT(2:00:00)",
+                "gold-time": "TIMEOBJECT(1:40:00)",
+                "platinum-time": "TIMEOBJECT(1:27:00)"
+            },
+            "game-leaderboard-api-url": {
+                "playstation-4": null,
+                "xbox-one": null,
+                "nintendo-switch": null
+            }
+        },
+        "area": {
+            "REFPROP(areas)": "bonus-tracks"
+        }
+    }
+]

@@ -3,10 +3,12 @@
         "slug": "skull-rock",
         "name": {
             "en": "Skull Rock",
-            "fr": "Tête de Mort"
+            "fr": "T\u00eate de Mort"
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -14,15 +16,24 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 88000,
-            "normal-mode": 83000,
-            "hard-mode": 55000
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "crystal-challenge",
+            "easy-mode-time": {
+                "ms": 88000,
+                "formated": "1:28:00"
+            },
+            "normal-mode-time": {
+                "ms": 83000,
+                "formated": "1:23:00"
+            },
+            "hard-mode-time": {
+                "ms": 55000,
+                "formated": "0:55:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "n-sanity-beach"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "n-sanity-beach"
         }
     },
     {
@@ -33,6 +44,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -40,15 +53,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 90000,
-            "normal-mode": 85000,
-            "hard-mode": 70000
+            "easy-mode-time": {
+                "ms": 90000,
+                "formated": "1:30:00"
+            },
+            "normal-mode-time": {
+                "ms": 85000,
+                "formated": "1:25:00"
+            },
+            "hard-mode-time": {
+                "ms": 70000,
+                "formated": "1:10:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "the-lost-ruins"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "the-lost-ruins"
         }
     },
     {
@@ -59,6 +79,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -66,15 +88,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 85000,
-            "normal-mode": 80000,
-            "hard-mode": 77000
+            "easy-mode-time": {
+                "ms": 85000,
+                "formated": "1:25:00"
+            },
+            "normal-mode-time": {
+                "ms": 80000,
+                "formated": "1:20:00"
+            },
+            "hard-mode-time": {
+                "ms": 77000,
+                "formated": "1:17:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "glacier-park"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "glacier-park"
         }
     },
     {
@@ -85,6 +114,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -92,15 +123,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 125000,
-            "normal-mode": 120000,
-            "hard-mode": 108000
+            "easy-mode-time": {
+                "ms": 125000,
+                "formated": "2:05:00"
+            },
+            "normal-mode-time": {
+                "ms": 120000,
+                "formated": "2:00:00"
+            },
+            "hard-mode-time": {
+                "ms": 108000,
+                "formated": "1:48:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "citadel-city"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "citadel-city"
         }
     },
     {
@@ -111,6 +149,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -118,15 +158,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 92000,
-            "normal-mode": 87000,
-            "hard-mode": 82000
+            "easy-mode-time": {
+                "ms": 92000,
+                "formated": "1:32:00"
+            },
+            "normal-mode-time": {
+                "ms": 87000,
+                "formated": "1:27:00"
+            },
+            "hard-mode-time": {
+                "ms": 82000,
+                "formated": "1:22:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
@@ -137,6 +184,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -144,15 +193,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 90000,
-            "normal-mode": 85000,
-            "hard-mode": 74000
+            "easy-mode-time": {
+                "ms": 90000,
+                "formated": "1:30:00"
+            },
+            "normal-mode-time": {
+                "ms": 85000,
+                "formated": "1:25:00"
+            },
+            "hard-mode-time": {
+                "ms": 74000,
+                "formated": "1:14:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
@@ -163,6 +219,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -170,15 +228,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 70000,
-            "normal-mode": 60000,
-            "hard-mode": 50000
+            "easy-mode-time": {
+                "ms": 70000,
+                "formated": "1:10:00"
+            },
+            "normal-mode-time": {
+                "ms": 60000,
+                "formated": "1:00:00"
+            },
+            "hard-mode-time": {
+                "ms": 50000,
+                "formated": "0:50:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
@@ -189,6 +254,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -196,25 +263,34 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 95000,
-            "normal-mode": 90000,
-            "hard-mode": 60000
+            "easy-mode-time": {
+                "ms": 95000,
+                "formated": "1:35:00"
+            },
+            "normal-mode-time": {
+                "ms": 90000,
+                "formated": "1:30:00"
+            },
+            "hard-mode-time": {
+                "ms": 60000,
+                "formated": "1:00:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
         "slug": "frozen-frenzy",
         "name": {
             "en": "Frozen Frenzy",
-            "fr": "Frénésie de Glace"
+            "fr": "Fr\u00e9n\u00e9sie de Glace"
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -222,25 +298,34 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 100000,
-            "normal-mode": 93000,
-            "hard-mode": 80000
+            "easy-mode-time": {
+                "ms": 100000,
+                "formated": "1:40:00"
+            },
+            "normal-mode-time": {
+                "ms": 93000,
+                "formated": "1:33:00"
+            },
+            "hard-mode-time": {
+                "ms": 80000,
+                "formated": "1:20:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
         "slug": "desert-storm",
         "name": {
             "en": "Desert Storm",
-            "fr": "Tempête du Désert"
+            "fr": "Temp\u00eate du D\u00e9sert"
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -248,25 +333,34 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 128000,
-            "normal-mode": 120000,
-            "hard-mode": 94000
+            "easy-mode-time": {
+                "ms": 128000,
+                "formated": "2:08:00"
+            },
+            "normal-mode-time": {
+                "ms": 120000,
+                "formated": "2:00:00"
+            },
+            "hard-mode-time": {
+                "ms": 94000,
+                "formated": "1:34:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
         "slug": "magnetic-mayhem",
         "name": {
             "en": "Magnetic Mayhem",
-            "fr": "Fracas Magnétique"
+            "fr": "Fracas Magn\u00e9tique"
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -274,15 +368,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 145000,
-            "normal-mode": 135000,
-            "hard-mode": 93000
+            "easy-mode-time": {
+                "ms": 145000,
+                "formated": "2:25:00"
+            },
+            "normal-mode-time": {
+                "ms": 135000,
+                "formated": "2:15:00"
+            },
+            "hard-mode-time": {
+                "ms": 93000,
+                "formated": "1:33:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     },
     {
@@ -293,6 +394,8 @@
         },
         "event-crates": 0,
         "battle": {
+            "__file": "\\data\\modes\\modes.json",
+            "__slug": "battle",
             "crates": {
                 "item": 0,
                 "wumpa": 0
@@ -300,15 +403,22 @@
             "wumpas": 0
         },
         "crystal-challenge": {
-            "easy-mode": 110000,
-            "normal-mode": 100000,
-            "hard-mode": 75000
+            "easy-mode-time": {
+                "ms": 110000,
+                "formated": "1:50:00"
+            },
+            "normal-mode-time": {
+                "ms": 100000,
+                "formated": "1:40:00"
+            },
+            "hard-mode-time": {
+                "ms": 75000,
+                "formated": "1:15:00"
+            }
         },
         "area": {
-            "file": "\\data\\areas\\areas.json",
-            "item": {
-                "slug": "crash-nitro-kart"
-            }
+            "__file": "\\data\\areas\\areas.json",
+            "__slug": "crash-nitro-kart"
         }
     }
 ]

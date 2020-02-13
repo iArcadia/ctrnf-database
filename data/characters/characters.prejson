@@ -1,0 +1,1046 @@
+[
+    {
+        "slug": "crash-bandicoot",
+        "name": {
+            "en": "Crash Bandicoot",
+            "fr": "Crash Bandicoot"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\crash-bandicoot.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "dr-neo-cortex",
+        "name": {
+            "en": "Dr. Neo Cortex",
+            "fr": "Dr. Neo Cortex"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\dr-neo-cortex.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "tiny-tiger",
+        "name": {
+            "en": "Tiny Tiger",
+            "fr": "Tiny Tiger"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\tiny-tiger.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "coco-bandicoot",
+        "name": {
+            "en": "Coco Bandicoot",
+            "fr": "Coco Bandicoot"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\coco-bandicoot.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "dr-n-gin",
+        "name": {
+            "en": "Dr. N. Gin",
+            "fr": "Dr. N. Gin"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\dr-n-gin.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "dingodile",
+        "name": {
+            "en": "Dingodile",
+            "fr": "Dingodile"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\dingodile.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "polar",
+        "name": {
+            "en": "Polar",
+            "fr": "Polar"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\polar.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "pura",
+        "name": {
+            "en": "Pura",
+            "fr": "Pura"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\pura.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "penta-penguin",
+        "name": {
+            "en": "Penta Penguin",
+            "fr": "Penta Penguin"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\penta-penguin.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku",
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "ripper-roo",
+        "name": {
+            "en": "Ripper Roo",
+            "fr": "Ripper Roo"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\ripper-roo.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "papu-papu",
+        "name": {
+            "en": "Papu Papu",
+            "fr": "Papu Papu"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\papu-papu.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "komodo-joe",
+        "name": {
+            "en": "Komodo Joe",
+            "fr": "Komodo Joe"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\komodoe-joe.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "pinstripe",
+        "name": {
+            "en": "Pinstripe",
+            "fr": "Pinstripe"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\pinstripe.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "fake-crash",
+        "name": {
+            "en": "Fake Crash",
+            "fr": "Faux Crash"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\fake-crash.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "nitros-oxide",
+        "name": {
+            "en": "Nitros Oxide",
+            "fr": "Nitros Oxide"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\nitros-oxide.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "n-tropy",
+        "name": {
+            "en": "N. Tropy",
+            "fr": "N. Tropy"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\n-tropy.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "crunch",
+        "name": {
+            "en": "Crunch",
+            "fr": "Crunch"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\crunch.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "krunk",
+        "name": {
+            "en": "Krunk",
+            "fr": "Krunk"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\krunk.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "small-norm",
+        "name": {
+            "en": "Small Norm",
+            "fr": "Petit Norm"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\small-norm.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "big-norm",
+        "name": {
+            "en": "Big Norm",
+            "fr": "Gros Norm"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\big-norm.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "nash",
+        "name": {
+            "en": "Nash",
+            "fr": "Nash"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\nash.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "n-trance",
+        "name": {
+            "en": "N. Trance",
+            "fr": "N. Trance"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\n-trance.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "real-velo",
+        "name": {
+            "en": "Real Velo",
+            "fr": "Vrai Velo"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\real-velo.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "geary",
+        "name": {
+            "en": "Geary",
+            "fr": "Geary"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\geary.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "zam",
+        "name": {
+            "en": "Zam",
+            "fr": "Zam"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\zam.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "zem",
+        "name": {
+            "en": "Zem",
+            "fr": "Zem"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\zem.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "velo-mask"
+            ]
+        }
+    },
+    {
+        "slug": "tawna",
+        "name": {
+            "en": "Tawna",
+            "fr": "Tawna"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\tawna.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "ami",
+        "name": {
+            "en": "Ami",
+            "fr": "Ami"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\ami.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "megumi",
+        "name": {
+            "en": "Megumi",
+            "fr": "Megumi"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\megumi.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "liz",
+        "name": {
+            "en": "Liz",
+            "fr": "Liz"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\liz.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "isabella",
+        "name": {
+            "en": "Isabella",
+            "fr": "Isabella"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\isabella.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "baby-crash",
+        "name": {
+            "en": "Baby Crash",
+            "fr": "B\u00e9b\u00e9 Crash"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\baby-crash.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "baby-coco",
+        "name": {
+            "en": "Baby Coco",
+            "fr": "B\u00e9b\u00e9 Coco"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\baby-coco.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "baby-t",
+        "name": {
+            "en": "Baby T",
+            "fr": "B\u00e9b\u00e9 T"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\baby-t.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "spyro",
+        "name": {
+            "en": "Spyro",
+            "fr": "Spyro"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\spyro.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "sparx"
+            ]
+        }
+    },
+    {
+        "slug": "hunter",
+        "name": {
+            "en": "Hunter",
+            "fr": "Chasseur"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\hunter.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "sparx"
+            ]
+        }
+    },
+    {
+        "slug": "gnasty-gnorc",
+        "name": {
+            "en": "Gnasty Gnorc",
+            "fr": "Gnasty Gnorc"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\gnasty-gnorc.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "sparx"
+            ]
+        }
+    },
+    {
+        "slug": "komodo-moe",
+        "name": {
+            "en": "Komodo Moe",
+            "fr": "Komodo Moe"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\komodo-moe.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "n-brio",
+        "name": {
+            "en": "N. Brio",
+            "fr": "N. Brio"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\n-brio.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "nina-cortex",
+        "name": {
+            "en": "Nina Cortex",
+            "fr": "Nina Cortex"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\nina-cortex.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "koala-kong",
+        "name": {
+            "en": "Koala Kong",
+            "fr": "Koala Kong"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\koala-kong.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "pasadena-o-possum",
+        "name": {
+            "en": "Pasadena O'Possum",
+            "fr": "Pasadena O'Possum"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\pasadena-o-possum.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "ebenezer-von-clutch",
+        "name": {
+            "en": "Ebenezer Von Clutch",
+            "fr": "Ebenezer Von Clutch"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\ebenezer-von-clutch.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "king-chicken",
+        "name": {
+            "en": "King Chicken",
+            "fr": "Roi Poulet"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\king-chicken.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku",
+                "uka-uka"
+            ]
+        }
+    },
+    {
+        "slug": "rilla-roo",
+        "name": {
+            "en": "Rilla Roo",
+            "fr": "Rilla Roo"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\rilla-roo.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "turn"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka",
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "yaya-panda",
+        "name": {
+            "en": "Yaya Panda",
+            "fr": "Yaya Panda"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\yaya-panda.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "speed"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "hasty",
+        "name": {
+            "en": "Hasty",
+            "fr": "Hasty"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\hasty.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "chick",
+        "name": {
+            "en": "Chick",
+            "fr": "Chick"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\chick.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "balanced"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "stew",
+        "name": {
+            "en": "Stew",
+            "fr": "Stew"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\stew.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        },
+        "driving-style": {
+            "REFPROP(driving-styles)": "acceleration"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "aku-aku"
+            ]
+        }
+    },
+    {
+        "slug": "megamix",
+        "name": {
+            "en": "Megamix",
+            "fr": "Megamix"
+        },
+        "masks": {
+            "REFPROP(masks)": [
+                "uka-uka"
+            ]
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(characters\\megamix.png)"
+        },
+        "rarity": {
+            "REFPROP(rarities)": "default"
+        }
+    }
+]

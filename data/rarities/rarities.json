@@ -3,12 +3,12 @@
         "slug": "default",
         "name": {
             "en": "Default",
-            "fr": "Défaut"
+            "fr": "D\u00e9faut"
         },
         "assets": {
             "icon-background": {
-                "type": "image/png",
-                "file": "\\assets\\img\\rarities\\default.png"
+                "__type": "image\/png",
+                "__file": "\\assets\\img\\rarities\\default.png"
             }
         },
         "color": {
@@ -28,8 +28,8 @@
         },
         "assets": {
             "icon-background": {
-                "type": "image/png",
-                "file": "\\assets\\img\\rarities\\basic.png"
+                "__type": "image\/png",
+                "__file": "\\assets\\img\\rarities\\basic.png"
             }
         },
         "color": {
@@ -49,8 +49,8 @@
         },
         "assets": {
             "icon-background": {
-                "type": "image/png",
-                "file": "\\assets\\img\\rarities\\exotic.png"
+                "__type": "image\/png",
+                "__file": "\\assets\\img\\rarities\\exotic.png"
             }
         },
         "color": {
@@ -66,12 +66,12 @@
         "slug": "legendary",
         "name": {
             "en": "Legendary",
-            "fr": "Légendaire"
+            "fr": "L\u00e9gendaire"
         },
         "assets": {
             "icon-background": {
-                "type": "image/png",
-                "file": "\\assets\\img\\rarities\\legendary.png"
+                "__type": "image\/png",
+                "__file": "\\assets\\img\\rarities\\legendary.png"
             }
         },
         "color": {
@@ -80,7 +80,7 @@
                 "green": 216,
                 "blue": 0
             },
-            "hexadecimal": "ffcc00"
+            "hexadecimal": "fed800"
         }
     }
 ]

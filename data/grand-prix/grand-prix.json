@@ -6,29 +6,17 @@
             "fr": "Nitro Tour"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "twilight-tour"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "twilight-tour"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "tawna"
-                },
-                {
-                    "slug": "ami"
-                },
-                {
-                    "slug": "megumi"
-                },
-                {
-                    "slug": "liz"
-                },
-                {
-                    "slug": "isabella"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "tawna",
+                "ami",
+                "megumi",
+                "liz",
+                "isabella"
             ]
         },
         "duration": {
@@ -40,26 +28,18 @@
         "slug": "back-n-time",
         "name": {
             "en": "Back N. Time",
-            "fr": "Retour dans le Passé"
+            "fr": "Retour dans le Pass\u00e9"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "prehistoric-playground"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "prehistoric-playground"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "baby-t"
-                },
-                {
-                    "slug": "baby-crash"
-                },
-                {
-                    "slug": "baby-coco"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "baby-t",
+                "baby-crash",
+                "baby-coco"
             ]
         },
         "duration": {
@@ -74,23 +54,15 @@
             "fr": "Spyro & Friends"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "spyro-circuit"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "spyro-circuit"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "spyro"
-                },
-                {
-                    "slug": "hunter"
-                },
-                {
-                    "slug": "gnasty-gnorc"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "spyro",
+                "hunter",
+                "gnasty-gnorc"
             ]
         },
         "duration": {
@@ -105,23 +77,15 @@
             "fr": "Effrayant"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "nina-s-nightmare"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "nina-s-nightmare"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "nina-cortex"
-                },
-                {
-                    "slug": "n-brio"
-                },
-                {
-                    "slug": "komodo-moe"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "nina-cortex",
+                "n-brio",
+                "komodo-moe"
             ]
         },
         "duration": {
@@ -133,29 +97,19 @@
         "slug": "neon-circus",
         "name": {
             "en": "Neon Circus",
-            "fr": "Cirque Néon"
+            "fr": "Cirque N\u00e9on"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "koala-carnival"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "koala-carnival"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "pasadena-o-possum"
-                },
-                {
-                    "slug": "ebenezer-von-clutch"
-                },
-                {
-                    "slug": "koala-kong"
-                },
-                {
-                    "slug": "king-chicken"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "pasadena-o-possum",
+                "ebenezer-von-clutch",
+                "koala-kong",
+                "king-chicken"
             ]
         },
         "duration": {
@@ -170,29 +124,17 @@
             "fr": "Festival Hivernal"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "gingerbread-joyride"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "gingerbread-joyride"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "hasty"
-                },
-                {
-                    "slug": "rilla-roo"
-                },
-                {
-                    "slug": "yaya-panda"
-                },
-                {
-                    "slug": "chick"
-                },
-                {
-                    "slug": "stew"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "hasty",
+                "rilla-roo",
+                "yaya-panda",
+                "chick",
+                "stew"
             ]
         },
         "duration": {
@@ -207,17 +149,13 @@
             "fr": "Rustland"
         },
         "new-track": {
-            "file": "\\data\\tracks\\tracks.json",
-            "item": {
-                "slug": "megamix-mania"
-            }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slug": "megamix-mania"
         },
         "new-characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "megamix"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "megamix"
             ]
         },
         "duration": {

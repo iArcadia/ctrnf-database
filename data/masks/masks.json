@@ -6,62 +6,26 @@
             "fr": "Uka-Uka"
         },
         "characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "dr-neo-cortex"
-                },
-                {
-                    "slug": "tiny-tiger"
-                },
-                {
-                    "slug": "dr-n-gin"
-                },
-                {
-                    "slug": "dingodile"
-                },
-                {
-                    "slug": "penta-penguin"
-                },
-                {
-                    "slug": "ripper-roo"
-                },
-                {
-                    "slug": "papu-papu"
-                },
-                {
-                    "slug": "komodo-joe"
-                },
-                {
-                    "slug": "pinstripe"
-                },
-                {
-                    "slug": "fake-crash"
-                },
-                {
-                    "slug": "n-tropy"
-                },
-                {
-                    "slug": "komodo-moe"
-                },
-                {
-                    "slug": "n-brio"
-                },
-                {
-                    "slug": "nina-cortex"
-                },
-                {
-                    "slug": "koala-kong"
-                },
-                {
-                    "slug": "king-chicken"
-                },
-                {
-                    "slug": "rilla-roo"
-                },
-                {
-                    "slug": "megamix"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "dr-neo-cortex",
+                "tiny-tiger",
+                "dr-n-gin",
+                "dingodile",
+                "penta-penguin",
+                "ripper-roo",
+                "papu-papu",
+                "komodo-joe",
+                "pinstripe",
+                "fake-crash",
+                "n-tropy",
+                "komodo-moe",
+                "n-brio",
+                "nina-cortex",
+                "koala-kong",
+                "king-chicken",
+                "rilla-roo",
+                "megamix"
             ]
         }
     },
@@ -72,71 +36,29 @@
             "fr": "Aku-Aku"
         },
         "characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "crash-bandicoot"
-                },
-                {
-                    "slug": "coco-bandicoot"
-                },
-                {
-                    "slug": "polar"
-                },
-                {
-                    "slug": "pura"
-                },
-                {
-                    "slug": "penta-penguin"
-                },
-                {
-                    "slug": "crunch"
-                },
-                {
-                    "slug": "tawna"
-                },
-                {
-                    "slug": "ami"
-                },
-                {
-                    "slug": "megumi"
-                },
-                {
-                    "slug": "liz"
-                },
-                {
-                    "slug": "isabella"
-                },
-                {
-                    "slug": "baby-crash"
-                },
-                {
-                    "slug": "baby-coco"
-                },
-                {
-                    "slug": "baby-t"
-                },
-                {
-                    "slug": "pasadena-o-possum"
-                },
-                {
-                    "slug": "ebenezer-von-clutch"
-                },
-                {
-                    "slug": "king-chicken"
-                },
-                {
-                    "slug": "yaya-panda"
-                },
-                {
-                    "slug": "hasty"
-                },
-                {
-                    "slug": "chick"
-                },
-                {
-                    "slug": "stew"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "crash-bandicoot",
+                "coco-bandicoot",
+                "polar",
+                "pura",
+                "penta-penguin",
+                "crunch",
+                "tawna",
+                "ami",
+                "megumi",
+                "liz",
+                "isabella",
+                "baby-crash",
+                "baby-coco",
+                "baby-t",
+                "pasadena-o-possum",
+                "ebenezer-von-clutch",
+                "king-chicken",
+                "yaya-panda",
+                "hasty",
+                "chick",
+                "stew"
             ]
         }
     },
@@ -147,38 +69,18 @@
             "fr": "Masque de Velo"
         },
         "characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "nitros-oxide"
-                },
-                {
-                    "slug": "krunk"
-                },
-                {
-                    "slug": "small-norm"
-                },
-                {
-                    "slug": "big-norm"
-                },
-                {
-                    "slug": "nash"
-                },
-                {
-                    "slug": "n-trance"
-                },
-                {
-                    "slug": "real-velo"
-                },
-                {
-                    "slug": "geary"
-                },
-                {
-                    "slug": "zam"
-                },
-                {
-                    "slug": "zem"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "nitros-oxide",
+                "krunk",
+                "small-norm",
+                "big-norm",
+                "nash",
+                "n-trance",
+                "real-velo",
+                "geary",
+                "zam",
+                "zem"
             ]
         }
     },
@@ -189,25 +91,17 @@
             "fr": "Sparx"
         },
         "characters": {
-            "file": "\\data\\characters\\characters.json",
-            "items": [
-                {
-                    "slug": "spyro"
-                },
-                {
-                    "slug": "hunter"
-                },
-                {
-                    "slug": "gnasty-gnorc"
-                }
+            "__file": "\\data\\characters\\characters.json",
+            "__slugs": [
+                "spyro",
+                "hunter",
+                "gnasty-gnorc"
             ]
         },
         "tracks": {
-            "file": "\\data\\tracks\\tracks.json",
-            "items": [
-                {
-                    "slug": "spyro-circuit"
-                }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slugs": [
+                "spyro-circuit"
             ]
         }
     },
@@ -218,11 +112,9 @@
             "fr": "Apo-Apo"
         },
         "tracks": {
-            "file": "\\data\\tracks\\tracks.json",
-            "items": [
-                {
-                    "slug": "megamix-mania"
-                }
+            "__file": "\\data\\tracks\\tracks.json",
+            "__slugs": [
+                "megamix-mania"
             ]
         }
     }
