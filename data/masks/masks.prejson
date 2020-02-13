@@ -1,0 +1,115 @@
+[
+    {
+        "slug": "uka-uka",
+        "name": {
+            "en": "Uka-Uka",
+            "fr": "Uka-Uka"
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "dr-neo-cortex",
+                "tiny-tiger",
+                "dr-n-gin",
+                "dingodile",
+                "penta-penguin",
+                "ripper-roo",
+                "papu-papu",
+                "komodo-joe",
+                "pinstripe",
+                "fake-crash",
+                "n-tropy",
+                "komodo-moe",
+                "n-brio",
+                "nina-cortex",
+                "koala-kong",
+                "king-chicken",
+                "rilla-roo",
+                "megamix"
+            ]
+        }
+    },
+    {
+        "slug": "aku-aku",
+        "name": {
+            "en": "Aku-Aku",
+            "fr": "Aku-Aku"
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "crash-bandicoot",
+                "coco-bandicoot",
+                "polar",
+                "pura",
+                "penta-penguin",
+                "crunch",
+                "tawna",
+                "ami",
+                "megumi",
+                "liz",
+                "isabella",
+                "baby-crash",
+                "baby-coco",
+                "baby-t",
+                "pasadena-o-possum",
+                "ebenezer-von-clutch",
+                "king-chicken",
+                "yaya-panda",
+                "hasty",
+                "chick",
+                "stew"
+            ]
+        }
+    },
+    {
+        "slug": "velo-mask",
+        "name": {
+            "en": "Velo Mask",
+            "fr": "Masque de Velo"
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "nitros-oxide",
+                "krunk",
+                "small-norm",
+                "big-norm",
+                "nash",
+                "n-trance",
+                "real-velo",
+                "geary",
+                "zam",
+                "zem"
+            ]
+        }
+    },
+    {
+        "slug": "sparx",
+        "name": {
+            "en": "Sparx",
+            "fr": "Sparx"
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "spyro",
+                "hunter",
+                "gnasty-gnorc"
+            ]
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "spyro-circuit"
+            ]
+        }
+    },
+    {
+        "slug": "apo-apo",
+        "name": {
+            "en": "Apo-Apo",
+            "fr": "Apo-Apo"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "megamix-mania"
+            ]
+        }
+    }
+]

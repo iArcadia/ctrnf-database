@@ -1,0 +1,131 @@
+[
+    {
+        "slug": "balanced",
+        "name": {
+            "en": "Balanced",
+            "fr": "Equilibré"
+        },
+        "statistics": {
+            "speed": 5,
+            "acceleration": 5,
+            "turn": 5
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "crash-bandicoot",
+                "dr-neo-cortex",
+                "komodo-joe",
+                "fake-crash",
+                "small-norm",
+                "geary",
+                "isabella",
+                "hunter",
+                "komodo-moe",
+                "ebenezer-von-clutch",
+                "chick"
+            ]
+        }
+    },
+    {
+        "slug": "speed",
+        "name": {
+            "en": "Speed",
+            "fr": "Vitesse"
+        },
+        "statistics": {
+            "speed": 7,
+            "acceleration": 3,
+            "turn": 2
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "tiny-tiger",
+                "dingodile",
+                "penta-penguin",
+                "papu-papu",
+                "n-tropy",
+                "crunch",
+                "big-norm",
+                "zem",
+                "ami",
+                "baby-t",
+                "spyro",
+                "nina-cortex",
+                "koala-kong",
+                "pasadena-o-possum",
+                "yaya-panda"
+            ]
+        }
+    },
+    {
+        "slug": "acceleration",
+        "name": {
+            "en": "Acceleration",
+            "fr": "Accelération"
+        },
+        "statistics": {
+            "speed": 4,
+            "acceleration": 7,
+            "turn": 3
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "coco-bandicoot",
+                "dr-n-gin",
+                "pinstripe",
+                "nitros-oxide",
+                "nash",
+                "n-trance",
+                "tawna",
+                "megumi",
+                "baby-coco",
+                "n-brio",
+                "stew"
+            ]
+        }
+    },
+    {
+        "slug": "turn",
+        "name": {
+            "en": "Turn",
+            "fr": "Virage"
+        },
+        "statistics": {
+            "speed": 3,
+            "acceleration": 4,
+            "turn": 7
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "polar",
+                "pura",
+                "ripper-roo",
+                "krunk",
+                "real-velo",
+                "zam",
+                "liz",
+                "baby-crash",
+                "gnasty-gnorc",
+                "rilla-roo"
+            ]
+        }
+    },
+    {
+        "slug": "drift",
+        "name": {
+            "en": "Drift",
+            "fr": "Glissade"
+        },
+        "statistics": {
+            "speed": 6,
+            "acceleration": 2,
+            "turn": 3
+        },
+        "characters": {
+            "REFPROP(characters)": [
+                "king-chicken",
+                "hasty"
+            ]
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "slug": "easy",
+        "name": {
+            "en": "Easy",
+            "fr": "Facile"
+        }
+    },
+    {
+        "slug": "normal",
+        "name": {
+            "en": "Normal",
+            "fr": "Normal"
+        }
+    },
+    {
+        "slug": "hard",
+        "name": {
+            "en": "Hard",
+            "fr": "Difficile"
+        }
+    }
+]

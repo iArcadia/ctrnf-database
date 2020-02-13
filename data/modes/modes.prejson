@@ -1,0 +1,248 @@
+[
+    {
+        "slug": "adventure",
+        "name": {
+            "en": "Adventure",
+            "fr": "Aventure"
+        },
+        "sub-modes": {
+            "REFPROP(modes)": [
+                "nitro-fueled",
+                "classic"
+            ]
+        }
+    },
+    {
+        "slug": "local-arcade",
+        "name": {
+            "en": "Local Arcade",
+            "fr": "Arcade Local"
+        },
+        "sub-modes": {
+            "REFPROP(modes)": [
+                "single-race",
+                "cup-race",
+                "battle",
+                "time-trial",
+                "relic-race",
+                "ctr-challenge",
+                "crystal-challenge",
+                "ring-rally"
+            ]
+        }
+    },
+    {
+        "slug": "online",
+        "name": {
+            "en": "Online",
+            "fr": "En Ligne"
+        }
+    },
+    {
+        "slug": "nitro-fueled",
+        "name": {
+            "en": "Nitro-Fueled",
+            "fr": "Nitro-Fueled"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "adventure"
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal",
+                "hard"
+            ]
+        }
+    },
+    {
+        "slug": "classic",
+        "name": {
+            "en": "Classic",
+            "fr": "Classique"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "adventure"
+        }
+    },
+    {
+        "slug": "single-race",
+        "name": {
+            "en": "Single Race",
+            "fr": "Course Unique"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal",
+                "hard"
+            ]
+        }
+    },
+    {
+        "slug": "cup-race",
+        "name": {
+            "en": "Cup Race",
+            "fr": "Coupe"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal",
+                "hard"
+            ]
+        }
+    },
+    {
+        "slug": "battle",
+        "name": {
+            "en": "Battle",
+            "fr": "Bataille"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        },
+        "sub-modes": {
+            "REFPROP(modes)": [
+                "limit-battle",
+                "capture-the-flag",
+                "crystal-grab",
+                "last-kart-standing",
+                "steal-the-bacon"
+            ]
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal",
+                "hard"
+            ]
+        }
+    },
+    {
+        "slug": "time-trial",
+        "name": {
+            "en": "Time Trial",
+            "fr": "Contre-la-montre"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        }
+    },
+    {
+        "slug": "relic-race",
+        "name": {
+            "en": "Relic Race",
+            "fr": "Course de Reliques"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal"
+            ]
+        }
+    },
+    {
+        "slug": "ctr-challenge",
+        "name": {
+            "en": "CTR Challenge",
+            "fr": "Défi CTR"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal",
+                "hard"
+            ]
+        }
+    },
+    {
+        "slug": "crystal-challenge",
+        "name": {
+            "en": "Crystal Challenge",
+            "fr": "Défi Cristaux"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        },
+        "difficulties": {
+            "REFPROP(difficulties)": [
+                "easy",
+                "normal",
+                "hard"
+            ]
+        }
+    },
+    {
+        "slug": "ring-rally",
+        "name": {
+            "en": "Ring Rally",
+            "fr": "Défi des Anneaux"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "local-arcade"
+        }
+    },
+    {
+        "slug": "limit-battle",
+        "name": {
+            "en": "Limit Battle",
+            "fr": "Bataille Limite"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "battle"
+        }
+    },
+    {
+        "slug": "capture-the-flag",
+        "name": {
+            "en": "Capture the Flag",
+            "fr": "Capture du Drapeau"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "battle"
+        }
+    },
+    {
+        "slug": "crystal-grab",
+        "name": {
+            "en": "Crystal Grap",
+            "fr": "Prise de Cristal"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "battle"
+        }
+    },
+    {
+        "slug": "last-kart-standing",
+        "name": {
+            "en": "Last Kart Standing",
+            "fr": "Dernier Kart"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "battle"
+        }
+    },
+    {
+        "slug": "steal-the-bacon",
+        "name": {
+            "en": "Steal the Bacon",
+            "fr": "Vol du Bacon"
+        },
+        "parent-mode": {
+            "REFPROP(modes)": "battle"
+        }
+    }
+]

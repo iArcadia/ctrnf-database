@@ -1,0 +1,212 @@
+[
+    {
+        "slug": "n-sanity-beach",
+        "name": {
+            "en": "N. Sanity Beach",
+            "fr": "N. Sanity Beach"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "crash-cove",
+                "mystery-caves",
+                "roo-s-tubes",
+                "sewer-speedway"
+            ]
+        },
+        "arenas": {
+            "REFPROP(arenas)": "skull-rock"
+        },
+        "adventure": {
+            "REFPROP(modes)": "adventure",
+            "boss": {
+                "character": {
+                    "REFPROP(characters)": "ripper-roo"
+                },
+                "track": {
+                    "REFPROP(tracks)": "roo-s-tubes"
+                },
+                "items": {
+                    "REFPROP(items)": [
+                        "explosive-crate"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "slug": "the-lost-ruins",
+        "name": {
+            "en": "The Lost Ruins",
+            "fr": "Ruines Perdues"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "coco-park",
+                "tiger-temple",
+                "papu-s-pyramid",
+                "dingo-canyon"
+            ]
+        },
+        "arena": {
+            "REFPROP(arenas)": "rampage-ruins"
+        },
+        "adventure": {
+            "REFPROP(modes)": "adventure",
+            "boss": {
+                "character": {
+                    "REFPROP(characters)": "papu-papu"
+                },
+                "track": {
+                    "REFPROP(tracks)": "papu-s-pyramid"
+                },
+                "items": {
+                    "REFPROP(items)": [
+                        ""
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "slug": "glacier-park",
+        "name": {
+            "en": "Glacier Park",
+            "fr": "Parc Glacier"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "polar-pass",
+                "tiny-arena",
+                "dragon-mines",
+                "blizzard-bluff"
+            ]
+        },
+        "arena": {
+            "REFPROP(arenas)": "rocky-road"
+        },
+        "adventure": {
+            "REFPROP(modes)": "adventure",
+            "boss": {
+                "character": {
+                    "REFPROP(characters)": "komodo-joe"
+                },
+                "track": {
+                    "REFPROP(tracks)": "dragon-mines"
+                },
+                "items": {
+                    "REFPROP(items)": [
+                        ""
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "slug": "citadel-city",
+        "name": {
+            "en": "Citadel City",
+            "fr": "Ville de la Citadelle"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "hot-air-skyway",
+                "cortex-castle",
+                "n-gin-labs",
+                "oxide-station"
+            ]
+        },
+        "arena": {
+            "REFPROP(arenas)": "nitro-court"
+        },
+        "adventure": {
+            "REFPROP(modes)": "adventure",
+            "boss": {
+                "character": {
+                    "REFPROP(characters)": "pinstripe"
+                },
+                "track": {
+                    "REFPROP(tracks)": "hot-air-skyway"
+                },
+                "items": {
+                    "REFPROP(items)": [
+                        ""
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "slug": "gem-stone-valley",
+        "name": {
+            "en": "Gem Stone Valley",
+            "fr": "Vallée des Gemmes"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "slide-coliseum",
+                "turbo-track"
+            ]
+        },
+        "adventure": {
+            "REFPROP(modes)": "adventure",
+            "boss": {
+                "character": {
+                    "REFPROP(characters)": "nitros-oxide"
+                },
+                "track": {
+                    "REFPROP(tracks)": "oxide-station"
+                },
+                "items": {
+                    "REFPROP(items)": [
+                        "explosive-crate",
+                        "n-brios-s-beaker",
+                        "bowling-bomb",
+                        ""
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "slug": "crash-nitro-kart",
+        "name": {
+            "en": "Crash Nitro Kart",
+            "fr": "Crash Nitro Kart"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "inferno-island",
+                "jungle-boogie",
+                "clockwork-wumpa",
+                "android-alley",
+                "electron-avenue",
+                "deep-sea-driving",
+                "thunder-struck",
+                "tiny-temple",
+                "meteor-gorge",
+                "barin-ruins",
+                "out-of-time",
+                "assembly-lane",
+                "hyper-spaceway"
+            ]
+        }
+    },
+    {
+        "slug": "bonus-tracks",
+        "name": {
+            "en": "Bonus Tracks",
+            "fr": "Circuits Bonus"
+        },
+        "tracks": {
+            "REFPROP(tracks)": [
+                "retro-stadium",
+                "twilight-tour",
+                "prehistoric-playground",
+                "spyro-circuit",
+                "nina-s-nightmare",
+                "koala-carnival",
+                "gingerbread-joyride"
+            ]
+        }
+    }
+]

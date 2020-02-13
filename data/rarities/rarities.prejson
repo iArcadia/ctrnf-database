@@ -1,0 +1,46 @@
+[
+    {
+        "slug": "default",
+        "name": {
+            "en": "Default",
+            "fr": "Défaut"
+        },
+        "assets": {
+            "icon-background": "ASSETOBJECT(rarities\\default.png)"
+        },
+        "color": "COLOROBJECT(255,255,255)"
+    },
+    {
+        "slug": "basic",
+        "name": {
+            "en": "Basic",
+            "fr": "Basique"
+        },
+        "assets": {
+            "icon-background": "ASSETOBJECT(rarities\\basic.png)"
+        },
+        "color": "COLOROBJECT(128,201,255)"
+    },
+    {
+        "slug": "exotic",
+        "name": {
+            "en": "Exotic",
+            "fr": "Exotique"
+        },
+        "assets": {
+            "icon-background": "ASSETOBJECT(rarities\\exotic.png)"
+        },
+        "color": "COLOROBJECT(161,126,254)"
+    },
+    {
+        "slug": "legendary",
+        "name": {
+            "en": "Legendary",
+            "fr": "Légendaire"
+        },
+        "assets": {
+            "icon-background": "ASSETOBJECT(rarities\\legendary.png)"
+        },
+        "color": "COLOROBJECT(254,216,0)"
+    }
+]
