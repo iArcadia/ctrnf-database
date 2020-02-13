@@ -3,110 +3,442 @@
         "slug": "tracking-missile",
         "name": {
             "en": "Tracking Missile",
-            "fr": ""
+            "fr": "Missile à Tête Chercheuse"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\tracking-missile.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-tracking-missile"
+        }
+    },
+    {
+        "slug": "juiced-up-tracking-missile",
+        "name": {
+            "en": "Juiced-Up Tracking Missile",
+            "fr": "Missile à Tête Chercheuse Chargé"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-tracking-missile.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "tracking-missile"
+        }
+    },
+    {
+        "slug": "tracking-missile-x3",
+        "name": {
+            "en": "Tracking Missile x3",
+            "fr": "Missile à Tête Chercheuse x3"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\tracking-missile-x3.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-tracking-missile-x3"
+        }
+    },
+    {
+        "slug": "juiced-up-tracking-missile-x3",
+        "name": {
+            "en": "Juiced-Up Tracking Missile x3",
+            "fr": "Missile à Tête Chercheuse Chargé x3"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-tracking-missile-x3.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "tracking-missile-x3"
         }
     },
     {
         "slug": "bowling-bomb",
         "name": {
             "en": "Bowling Bomb",
-            "fr": ""
+            "fr": "Bombe Bowling"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\bowling-bomb.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-bowling-bomb"
+        }
+    },
+    {
+        "slug": "juiced-up-bowling-bomb",
+        "name": {
+            "en": "Juiced-Up Bowling Bomb",
+            "fr": "Bombe Bowling Chargée"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-bowling-bomb.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "bowling-bomb"
+        }
+    },
+    {
+        "slug": "bowling-bomb-x3",
+        "name": {
+            "en": "Bowling Bomb x3",
+            "fr": "Bombe Bowling x3"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\bowling-bomb-x3.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-bowling-bomb-x3"
+        }
+    },
+    {
+        "slug": "juiced-up-bowling-bomb-x3",
+        "name": {
+            "en": "Juiced-Up Bowling Bomb x3",
+            "fr": "Bombe Bowling Chargée x3"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-bowling-bomb-x3.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "bowling-bomb-x3"
         }
     },
     {
         "slug": "power-shield",
         "name": {
             "en": "Power Shield",
-            "fr": ""
+            "fr": "Bouclier"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\power-shield.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-power-shield"
         }
     },
     {
-        "slug": "explosive-crate",
+        "slug": "juiced-up-power-shield",
         "name": {
-            "en": "Explosive Crate",
-            "fr": ""
+            "en": "Juiced-Up Power Shield",
+            "fr": "Bouclier Chargé"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\explosive-crate.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-power-shield.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "power-shield"
+        }
+    },
+    {
+        "slug": "tnt-crate",
+        "name": {
+            "en": "TNT Crate",
+            "fr": "Caisse TNT"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\tnt-crate.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-tnt-crate"
+        }
+    },
+    {
+        "slug": "juiced-up-tnt-crate",
+        "name": {
+            "en": "Juiced-Up TNT Crate",
+            "fr": "Caisse TNT Chargée"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-tnt-crate.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "tnt-crate"
         }
     },
     {
         "slug": "n-brio-s-beaker",
         "name": {
             "en": "N. Brio's Beaker",
-            "fr": ""
+            "fr": "Fiole de N. Brio"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\n-brio-s-beaker.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-n-brio-s-beaker"
         }
     },
     {
-        "slug": "mask",
+        "slug": "juiced-up-n-brio-s-beaker",
         "name": {
-            "en": "Mask",
-            "fr": ""
+            "en": "Juiced-Up N. Brio's Beaker",
+            "fr": "Fiole de N. Brio Chargée"
         },
         "assets": {
-            "icon": "ASSETOBJECT(items\\mask.png)"
+            "icon": "ASSETOBJECT(items\\juiced-up-n-brio-s-beaker.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "n-brio-s-beaker"
+        }
+    },
+    {
+        "slug": "aku-aku-invicibility-mask",
+        "name": {
+            "en": "Invicibility Mask (Aku-Aku)",
+            "fr": "Masque d'invincibilité (Aku-Aku)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\aku-aku-invicibility-mask.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-aku-aku-invicibility-mask"
+        }
+    },
+    {
+        "slug": "juiced-up-aku-aku-invicibility-mask",
+        "name": {
+            "en": "Juiced-Up Invicibility Mask (Aku-Aku)",
+            "fr": "Masque d'invincibilité Chargé (Aku-Aku)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-aku-aku-invicibility-mask.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "aku-aku-invicibility-mask"
+        }
+    },
+    {
+        "slug": "uka-uka-invicibility-mask",
+        "name": {
+            "en": "Invicibility Mask (Uka-Uka)",
+            "fr": "Masque d'invincibilité (Uka-Uka)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\uka-uka-invicibility-mask.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-uka-uka-invicibility-mask"
+        }
+    },
+    {
+        "slug": "juiced-up-uka-uka-invicibility-mask",
+        "name": {
+            "en": "Juiced-Up Invicibility Mask (Uka-Uka)",
+            "fr": "Masque d'invincibilité Chargé (Uka-Uka)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-uka-uka-invicibility-mask.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "uka-uka-invicibility-mask"
+        }
+    },
+    {
+        "slug": "velo-invicibility-mask",
+        "name": {
+            "en": "Invicibility Mask (Velo)",
+            "fr": "Masque d'invincibilité (Velo)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\velo-invicibility-mask.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-velo-invicibility-mask"
+        }
+    },
+    {
+        "slug": "juiced-up-velo-invicibility-mask",
+        "name": {
+            "en": "Juiced-Up Invicibility Mask (Velo)",
+            "fr": "Masque d'invincibilité Chargé (Velo)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-velo-invicibility-mask.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "velo-invicibility-mask"
+        }
+    },
+    {
+        "slug": "sparx-invicibility-mask",
+        "name": {
+            "en": "Invicibility Mask (Sparx)",
+            "fr": "Masque d'invincibilité (Sparx)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\sparx-invicibility-mask.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-sparx-invicibility-mask"
+        }
+    },
+    {
+        "slug": "juiced-up-sparx-invicibility-mask",
+        "name": {
+            "en": "Juiced-Up Invicibility Mask (Sparx)",
+            "fr": "Masque d'invincibilité Chargé (Sparx)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-sparx-invicibility-mask.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "sparx-invicibility-mask"
+        }
+    },
+    {
+        "slug": "apo-apo-invicibility-mask",
+        "name": {
+            "en": "Invicibility Mask (Apo-Apo)",
+            "fr": "Masque d'invincibilité (Apo-Apo)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\apo-apo-invicibility-mask.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-apo-apo-invicibility-mask"
+        }
+    },
+    {
+        "slug": "juiced-up-apo-apo-invicibility-mask",
+        "name": {
+            "en": "Juiced-Up Invicibility Mask (Apo-Apo)",
+            "fr": "Masque d'invincibilité Chargé (Apo-Apo)"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-apo-apo-invicibility-mask.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "apo-apo-invicibility-mask"
         }
     },
     {
         "slug": "turbo",
         "name": {
             "en": "Turbo",
-            "fr": ""
+            "fr": "Turbo"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\turbo.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-turbo"
+        }
+    },
+    {
+        "slug": "juiced-up-turbo",
+        "name": {
+            "en": "Juiced-Up Turbo",
+            "fr": "Turbo Chargé"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-turbo.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "turbo"
         }
     },
     {
         "slug": "n-tropy-clock",
         "name": {
             "en": "N. Tropy Clock",
-            "fr": ""
+            "fr": "Horloge de N. Tropy"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\n-tropy-clock.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-n-tropy-clock"
+        }
+    },
+    {
+        "slug": "juiced-up-n-tropy-clock",
+        "name": {
+            "en": "Juiced-Up N. Tropy Clock",
+            "fr": "Horloge de N. Tropy Chargée"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-n-tropy-clock.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "n-tropy-clock"
         }
     },
     {
         "slug": "warp-orb",
         "name": {
             "en": "Warp Orb",
-            "fr": ""
+            "fr": "Orbe Warp"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\warp-orb.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-warp-orb"
+        }
+    },
+    {
+        "slug": "juiced-up-warp-orb",
+        "name": {
+            "en": "Juiced-Up Warp Orb",
+            "fr": "Orbe Warp Chargée"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-warp-orb.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "warp-orb"
         }
     },
     {
         "slug": "invisibility",
         "name": {
             "en": "Invisibility",
-            "fr": ""
+            "fr": "Invisibilité"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\invisibility.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-invisibility"
+        }
+    },
+    {
+        "slug": "juiced-up-invisibility",
+        "name": {
+            "en": "Juice-Up Invisibility",
+            "fr": "Invisibilité Chargée"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-invisibility.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "invisibility"
         }
     },
     {
         "slug": "super-engine",
         "name": {
             "en": "Super Engine",
-            "fr": ""
+            "fr": "Super Moteur"
         },
         "assets": {
             "icon": "ASSETOBJECT(items\\super-engine.png)"
+        },
+        "juiced-up-version": {
+            "REFPROP(items)": "juiced-up-super-engine"
+        }
+    },
+    {
+        "slug": "juiced-up-super-engine",
+        "name": {
+            "en": "Juiced-Up Super Engine",
+            "fr": "Super Moteur Chargé"
+        },
+        "assets": {
+            "icon": "ASSETOBJECT(items\\juiced-up-super-engine.png)"
+        },
+        "normal-version": {
+            "REFPROP(items)": "super-engine"
         }
     }
 ]
